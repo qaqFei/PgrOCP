@@ -14,5 +14,5 @@ def getAllFiles(path: str) -> list[str]:
             files.extend(getAllFiles(f"{path}\\{item}"))
     return files
 
-reslist = list(map(lambda x: x.strip("res\\"), getAllFiles("res")))
+reslist = list(map(lambda x: x[4:], getAllFiles("res")))
 json.dump(reslist, open("reslist.json", "w", encoding="utf-8"), ensure_ascii=False, indent=4)
