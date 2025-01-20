@@ -6,10 +6,12 @@
 
 <script>
     (async () => {
-        const data = (await fetch("./reslist.json")).json();
+        const data = await (await fetch("./reslist.json")).json();
         const reslist = document.getElementById("reslist");
+        const inners = [];
         for (const path of data) {
-            reslist.innerHTML += `<a href="${path}">${path}</a><br/>`;
+            inners.push(`<a href="./res/${path}">${path}</a><br/>`);
         }
+        reslist.innerHTML = inners.join("");
     })();
 </script>
