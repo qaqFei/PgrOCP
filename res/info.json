@@ -1,0 +1,6473 @@
+[
+    {
+        "songId": "Glaciaxion.SunsetRay",
+        "songKey": "Glaciaxion",
+        "songName": "Glaciaxion",
+        "difficulty": [
+            1.0,
+            6.5,
+            12.5
+        ],
+        "illustrator": "艾若拉",
+        "charter": [
+            "Barbarianerman",
+            "阿爽 fixed by Clutter",
+            "Barbarianerman vs. NerSAN"
+        ],
+        "composer": "SunsetRay",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 15.420000076293945,
+        "previewTimeEnd": 42.849998474121094,
+        "soundIdBak": "Glaciaxion.SunsetRay.0"
+    },
+    {
+        "songId": "EradicationCatastrophe.NceS",
+        "songKey": "Eradication Catastrophe",
+        "songName": "Eradication Catastrophe",
+        "difficulty": [
+            3.5,
+            7.5,
+            12.7
+        ],
+        "illustrator": "海产",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman fixed by Clutter",
+            "Barbarianerman"
+        ],
+        "composer": "NceS",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 48.012001037597656,
+        "previewTimeEnd": 60.013999938964844,
+        "soundIdBak": "EradicationCatastrophe.NceS.0"
+    },
+    {
+        "songId": "Credits.Frums",
+        "songKey": "Credits",
+        "songName": "Credits",
+        "difficulty": [
+            4.5,
+            10.4,
+            13.7,
+            15.5
+        ],
+        "illustrator": "Ctymax",
+        "charter": [
+            "Ctymax",
+            "Ctymax",
+            "Ctymax",
+            "_鉄 (Isotope 59)"
+        ],
+        "composer": "Frums",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 32.0,
+        "previewTimeEnd": 47.0,
+        "soundIdBak": "Credits.Frums.0"
+    },
+    {
+        "songId": "Dlyrotz.Likey",
+        "songKey": "Dlyrotz",
+        "songName": "Dlyrotz",
+        "difficulty": [
+            4.0,
+            9.4,
+            13.7
+        ],
+        "illustrator": "DoublePian",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "XMT小咩兔 vs. Barbarianerman"
+        ],
+        "composer": "Likey",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 23.0,
+        "previewTimeEnd": 38.0,
+        "soundIdBak": "Dlyrotz.Likey.0"
+    },
+    {
+        "songId": "EnginexStartmelodymix.CrossingSound",
+        "songKey": "Engine x Start!! (melody mix)",
+        "songName": "Engine x Start!! (melody mix)",
+        "difficulty": [
+            2.5,
+            8.6,
+            13.4
+        ],
+        "illustrator": "赤芽",
+        "charter": [
+            "Clutter",
+            "Clutter",
+            "阿爽"
+        ],
+        "composer": "CrossingSound",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 47.7400016784668,
+        "previewTimeEnd": 69.66999816894531,
+        "soundIdBak": "EnginexStartmelodymix.CrossingSound.0"
+    },
+    {
+        "songId": "光.姜米條",
+        "songKey": "光",
+        "songName": "光",
+        "difficulty": [
+            2.5,
+            7.5,
+            12.8
+        ],
+        "illustrator": "winder",
+        "charter": [
+            "Catcats & 百九十八 fixed by Clutter",
+            "Catcats & 百九十八 fixed by Clutter",
+            "Catcats & 百九十八"
+        ],
+        "composer": "姜米條",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 63.33000183105469,
+        "previewTimeEnd": 97.33000183105469,
+        "soundIdBak": "光.姜米條.0"
+    },
+    {
+        "songId": "Wintercube.CtymaxfeatNceS",
+        "songKey": "Winter ↑cube↓",
+        "songName": "Winter ↑cube↓",
+        "difficulty": [
+            3.5,
+            8.2,
+            13.4
+        ],
+        "illustrator": "翠冷兮",
+        "charter": [
+            "Ctymax after 7 years",
+            "Salt",
+            "百九十八"
+        ],
+        "composer": "Ctymax feat. NceS",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 9.5,
+        "previewTimeEnd": 24.5,
+        "soundIdBak": "Wintercube.CtymaxfeatNceS.0"
+    },
+    {
+        "songId": "Cipher20.TetrajectoryfeatCtymax",
+        "songKey": "Cipher : /2&//<|0",
+        "songName": "Cipher : /2&//<|0",
+        "difficulty": [
+            5.5,
+            9.7,
+            14.4
+        ],
+        "illustrator": "IvyTowers",
+        "charter": [
+            "M3d1uM",
+            "M3d1uM",
+            "Barbarianerman feat. Gausbon"
+        ],
+        "composer": "Tetrajectory feat.Ctymax",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 37.540000915527344,
+        "previewTimeEnd": 60.33000183105469,
+        "soundIdBak": "Cipher20.TetrajectoryfeatCtymax.0"
+    },
+    {
+        "songId": "混乱Confusion.OnlyMyBlackScore",
+        "songKey": "混乱-Confusion",
+        "songName": "混乱-Confusion",
+        "difficulty": [
+            4.0,
+            10.6,
+            14.8
+        ],
+        "illustrator": "L-sp4",
+        "charter": [
+            "StR-1",
+            "StR-1",
+            "XMT小咩兔"
+        ],
+        "composer": "OnlyMyBlackScore",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 77.33000183105469,
+        "previewTimeEnd": 100.0,
+        "soundIdBak": "混乱Confusion.OnlyMyBlackScore.0"
+    },
+    {
+        "songId": "FULiAUTOSHOOTER.MYUKKE",
+        "songKey": "FULi AUTO SHOOTER",
+        "songName": "FULi AUTO SHOOTER",
+        "difficulty": [
+            3.0,
+            9.4,
+            14.8
+        ],
+        "illustrator": "ViscerA & Psycholine",
+        "charter": [
+            "Knight",
+            "Knight",
+            "AUTO. SHOOTER. fixed by Ctymax"
+        ],
+        "composer": "MYUKKE.",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 53.78099822998047,
+        "previewTimeEnd": 67.86199951171875,
+        "soundIdBak": "FULiAUTOSHOOTER.MYUKKE.0"
+    },
+    {
+        "songId": "HumaN.SOTUI",
+        "songKey": "HumaN",
+        "songName": "HumaN",
+        "difficulty": [
+            3.0,
+            8.1,
+            12.9
+        ],
+        "illustrator": "CH",
+        "charter": [
+            "Clutter",
+            "Clutter",
+            "CN_115+TangScend"
+        ],
+        "composer": "SOTUI",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 84.98899841308594,
+        "previewTimeEnd": 101.3280029296875,
+        "soundIdBak": "HumaN.SOTUI.0"
+    },
+    {
+        "songId": "PRAW.Bluewind",
+        "songKey": "[PRAW]",
+        "songName": "[PRAW]",
+        "difficulty": [
+            6.0,
+            10.6,
+            15.1
+        ],
+        "illustrator": "老张",
+        "charter": [
+            "Likey",
+            "Likey",
+            "晨 vs. 阿爽"
+        ],
+        "composer": "Bluewind",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 129.13999938964844,
+        "previewTimeEnd": 149.7100067138672,
+        "soundIdBak": "PRAW.Bluewind.0"
+    },
+    {
+        "songId": "PixelRebelz.Normal1zer",
+        "songKey": "Pixel Rebelz",
+        "songName": "Pixel Rebelz",
+        "difficulty": [
+            4.0,
+            10.3,
+            15.1
+        ],
+        "illustrator": "艾是Abby",
+        "charter": [
+            "Knight",
+            "Knight",
+            "NerSAN"
+        ],
+        "composer": "Normal1zer",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 110.4000015258789,
+        "previewTimeEnd": 139.1999969482422,
+        "soundIdBak": "PixelRebelz.Normal1zer.0"
+    },
+    {
+        "songId": "Cereris.SunsetRayNceS",
+        "songKey": "Cereris",
+        "songName": "Cereris",
+        "difficulty": [
+            5.5,
+            10.9,
+            14.8
+        ],
+        "illustrator": "IvyTowers",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "StupiGGy"
+        ],
+        "composer": "SunsetRay/NceS",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 57.58000183105469,
+        "previewTimeEnd": 73.66999816894531,
+        "soundIdBak": "Cereris.SunsetRayNceS.0"
+    },
+    {
+        "songId": "NonMelodicRagezMUGEdit.Normal1zer",
+        "songKey": "Non-Melodic Ragez (MUG Edit)",
+        "songName": "Non-Melodic Ragez (MUG Edit)",
+        "difficulty": [
+            5.5,
+            11.8,
+            15.7
+        ],
+        "illustrator": "cycats",
+        "charter": [
+            "Clutter",
+            "Clutter",
+            "分化者 fixed by Barbarianerman"
+        ],
+        "composer": "Normal1zer",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 63.084999084472656,
+        "previewTimeEnd": 76.68199920654297,
+        "soundIdBak": "NonMelodicRagezMUGEdit.Normal1zer.0"
+    },
+    {
+        "songId": "SultanRage.MonstDeath",
+        "songKey": "Sultan Rage",
+        "songName": "Sultan Rage",
+        "difficulty": [
+            4.0,
+            7.0,
+            12.3
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+            "百九十八",
+            "百九十八",
+            "百九十八"
+        ],
+        "composer": "MonstDeath",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 15.869999885559082,
+        "previewTimeEnd": 30.8700008392334,
+        "soundIdBak": "SultanRage.MonstDeath.0"
+    },
+    {
+        "songId": "ClassMemories.AntistarfeatCtymax",
+        "songKey": "Class Memories",
+        "songName": "Class Memories",
+        "difficulty": [
+            6.0,
+            10.4,
+            13.8
+        ],
+        "illustrator": "xperz",
+        "charter": [
+            "M3d1uM",
+            "M3d1uM",
+            "JKy"
+        ],
+        "composer": "Antistar feat. Ctymax",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 73.5,
+        "previewTimeEnd": 92.5,
+        "soundIdBak": "ClassMemories.AntistarfeatCtymax.0"
+    },
+    {
+        "songId": "SURREALISM.Itsuki",
+        "songKey": "-SURREALISM-",
+        "songName": "-SURREALISM-",
+        "difficulty": [
+            5.0,
+            9.4,
+            13.4
+        ],
+        "illustrator": "喵n葵",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "-StupiGGy- fixed by 晨"
+        ],
+        "composer": "Itsuki",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 54.66600036621094,
+        "previewTimeEnd": 68.0,
+        "soundIdBak": "SURREALISM.Itsuki.0"
+    },
+    {
+        "songId": "BonusTime.MegaloPaleWhite",
+        "songKey": "Bonus Time",
+        "songName": "Bonus Time",
+        "difficulty": [
+            3.5,
+            9.5,
+            14.2
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+            "Clutter",
+            "Clutter",
+            "Uvernight fixed by 百九十八"
+        ],
+        "composer": "Megalo_PaleWhite",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 23.360000610351562,
+        "previewTimeEnd": 38.36000061035156,
+        "soundIdBak": "BonusTime.MegaloPaleWhite.0"
+    },
+    {
+        "songId": "ENERGYSYNERGYMATRIX.Tanchiky",
+        "songKey": "Energy Synergy Matrix",
+        "songName": "ENERGY SYNERGY MATRIX",
+        "difficulty": [
+            5.5,
+            11.5,
+            14.4,
+            14.0
+        ],
+        "illustrator": "Karameru",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "Ctymax vs. 阿爽  fixed by B B M pow",
+            "Ctymax vs 阿爽 "
+        ],
+        "composer": "Tanchiky",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "Legacy"
+        ],
+        "previewTimeStart": 85.5260009765625,
+        "previewTimeEnd": 99.12000274658203,
+        "soundIdBak": "ENERGYSYNERGYMATRIX.Tanchiky.0"
+    },
+    {
+        "songId": "NYA.FLuoRiTe姜米條",
+        "songKey": "NYA!!!",
+        "songName": "NYA!!! (Phigros ver.)",
+        "difficulty": [
+            2.0,
+            8.6,
+            13.1
+        ],
+        "illustrator": "NEKO&海产",
+        "charter": [
+            "HCC!!!",
+            "HCC!!!",
+            "HCC!!!"
+        ],
+        "composer": "FLuoRiTe/姜米條",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 39.349998474121094,
+        "previewTimeEnd": 51.810001373291016,
+        "soundIdBak": "NYA.FLuoRiTe姜米條.0"
+    },
+    {
+        "songId": "JunXionBetweenLifeAndDeathVIPMix.1N6Fs",
+        "songKey": "JunXion Between Life And Death(VIP Mix)",
+        "songName": "JunXion Between Life And Death(VIP Mix)",
+        "difficulty": [
+            3.0,
+            8.7,
+            13.3
+        ],
+        "illustrator": "IvyTowers",
+        "charter": [
+            "鲲&百九十八",
+            "鲲&百九十八",
+            "鲲&百九十八"
+        ],
+        "composer": "1N6Fs",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 111.21900177001953,
+        "previewTimeEnd": 126.21900177001953,
+        "soundIdBak": "JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0"
+    },
+    {
+        "songId": "cryout.JuE",
+        "songKey": "cryout",
+        "songName": "cryout",
+        "difficulty": [
+            4.5,
+            9.9,
+            13.8
+        ],
+        "illustrator": "Haight",
+        "charter": [
+            "Ctymax",
+            "Ctymax",
+            "Ctymax but 5 years later"
+        ],
+        "composer": "Ju_E",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 54.0,
+        "previewTimeEnd": 69.0,
+        "soundIdBak": "cryout.JuE.0"
+    },
+    {
+        "songId": "Reimei.影虎",
+        "songKey": "Reimei",
+        "songName": "Reimei",
+        "difficulty": [
+            7.0,
+            11.9,
+            15.1
+        ],
+        "illustrator": "英英英",
+        "charter": [
+            "百九十八",
+            "百九十八",
+            "百九十八"
+        ],
+        "composer": "影虎。",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 95.67500305175781,
+        "previewTimeEnd": 110.67500305175781,
+        "soundIdBak": "Reimei.影虎.0"
+    },
+    {
+        "songId": "尊師TheGuru.rider",
+        "songKey": "尊師 ～The Guru～",
+        "songName": "尊師 ～The Guru～",
+        "difficulty": [
+            6.0,
+            11.6,
+            15.2
+        ],
+        "illustrator": "1B",
+        "charter": [
+            "M3d1uM",
+            "M3d1uM",
+            "奥術 ~The Empery~"
+        ],
+        "composer": "rider",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 91.56900024414062,
+        "previewTimeEnd": 113.74099731445312,
+        "soundIdBak": "尊師TheGuru.rider.0"
+    },
+    {
+        "songId": "Spasmodic.姜米條颶風元力上人",
+        "songKey": "Spasmodic",
+        "songName": "Spasmodic",
+        "difficulty": [
+            8.2,
+            13.3,
+            15.2,
+            16.3
+        ],
+        "illustrator": "昔璃☆暴雨 ~ ♫危難聖帝♫",
+        "charter": [
+            "無極☆雷鳴 ~ ♫死の序曲♫",
+            "無極☆雷鳴 ~ ♫死の序曲♫",
+            "無極☆雷鳴 ~ ♫死の序曲♫",
+            "無極☆雷鳴 ~ ♫死の序曲♫"
+        ],
+        "composer": "姜米條☆颶風 ~ ♫元力上人♫",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 72.5999984741211,
+        "previewTimeEnd": 92.4000015258789,
+        "soundIdBak": "Spasmodic.姜米條颶風元力上人.0"
+    },
+    {
+        "songId": "LeaveAllBehind.rider",
+        "songKey": "Leave All Behind",
+        "songName": "Leave All Behind",
+        "difficulty": [
+            3.0,
+            8.9,
+            12.7
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+            "亚树见希子 & 百九十八",
+            "亚树见希子 & 百九十八",
+            "亚树见希子 & 百九十八"
+        ],
+        "composer": "rider",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 27.187999725341797,
+        "previewTimeEnd": 40.0,
+        "soundIdBak": "LeaveAllBehind.rider.0"
+    },
+    {
+        "songId": "ColorfulDays.P4koofeatつゆり花鈴",
+        "songKey": "Colorful Days♪",
+        "songName": "Colorful Days♪",
+        "difficulty": [
+            5.0,
+            7.0,
+            12.7
+        ],
+        "illustrator": "Doro-nyong & Ratif",
+        "charter": [
+            "阿♪爽",
+            "阿♪爽",
+            "阿♪爽"
+        ],
+        "composer": "P4koo feat. つゆり花鈴",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 47.02000045776367,
+        "previewTimeEnd": 61.0,
+        "soundIdBak": "ColorfulDays.P4koofeatつゆり花鈴.0"
+    },
+    {
+        "songId": "microwav.dandeless",
+        "songKey": "micro.wav",
+        "songName": "micro.wav",
+        "difficulty": [
+            6.0,
+            10.7,
+            14.6
+        ],
+        "illustrator": "snake.ribs",
+        "charter": [
+            "百九十八",
+            "百九十八",
+            "百九十八"
+        ],
+        "composer": "dandeless",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 29.30500030517578,
+        "previewTimeEnd": 46.053001403808594,
+        "soundIdBak": "microwav.dandeless.0"
+    },
+    {
+        "songId": "重生.姜米條",
+        "songKey": "重生",
+        "songName": "重生",
+        "difficulty": [
+            4.5,
+            8.8,
+            14.4
+        ],
+        "illustrator": "昔璃&TNiK",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "Barbarianerman"
+        ],
+        "composer": "姜米條",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 61.53200149536133,
+        "previewTimeEnd": 81.23400115966797,
+        "soundIdBak": "重生.姜米條.0"
+    },
+    {
+        "songId": "NOONEYESMAN.MYUKKE",
+        "songKey": "NO ONE YES MAN",
+        "songName": "NO ONE YES MAN",
+        "difficulty": [
+            6.5,
+            10.9,
+            15.4
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+            "Ctymax",
+            "晨",
+            "晨 vs. Ctymax"
+        ],
+        "composer": "MYUKKE.",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 28.952999114990234,
+        "previewTimeEnd": 43.952999114990234,
+        "soundIdBak": "NOONEYESMAN.MYUKKE.0"
+    },
+    {
+        "songId": "望影の方舟Six.SeURa",
+        "songKey": "望影の方舟Six",
+        "songName": "望影の方舟Six",
+        "difficulty": [
+            6.5,
+            12.1,
+            15.7
+        ],
+        "illustrator": "鲸弑",
+        "charter": [
+            "六回目Traveler Scend",
+            "六回目Traveler Scend",
+            "六回目Traveler Scend as \"Knight of Arq\""
+        ],
+        "composer": "Se-U-Ra",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 71.11399841308594,
+        "previewTimeEnd": 96.51399993896484,
+        "soundIdBak": "望影の方舟Six.SeURa.0"
+    },
+    {
+        "songId": "Igallta.SeURa",
+        "songKey": "Igallta",
+        "songName": "Igallta",
+        "difficulty": [
+            7.5,
+            12.7,
+            15.7,
+            16.7
+        ],
+        "illustrator": "Se-U-Ra",
+        "charter": [
+            "信仰の剣『生』",
+            "平川の剣『士』",
+            "夜明の剣『靈』",
+            "断罪の剣『神』"
+        ],
+        "composer": "Se-U-Ra",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 79.82599639892578,
+        "previewTimeEnd": 94.82599639892578,
+        "soundIdBak": "Igallta.SeURa.0"
+    },
+    {
+        "songId": "ClockParadox.WyvernP",
+        "songKey": "Clock Paradox",
+        "songName": "Clock Paradox",
+        "difficulty": [
+            2.5,
+            6.0,
+            12.6
+        ],
+        "illustrator": "汉堡",
+        "charter": [
+            "Barbarianerman vs. Alloces",
+            "Barbarianerman vs. Alloces",
+            "Barbarianerman vs. Alloces"
+        ],
+        "composer": "WyvernP",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 114.4280014038086,
+        "previewTimeEnd": 142.28500366210938,
+        "soundIdBak": "ClockParadox.WyvernP.0"
+    },
+    {
+        "songId": "Chronologika.Hundotte",
+        "songKey": "Chronologika",
+        "songName": "Chronologika",
+        "difficulty": [
+            3.5,
+            9.8,
+            13.8
+        ],
+        "illustrator": "幽灵星",
+        "charter": [
+            "TimiTini",
+            "XMT小咩兔",
+            "Ctymax vs. Barbarianerman"
+        ],
+        "composer": "Hundotte",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 62.7599983215332,
+        "previewTimeEnd": 84.0,
+        "soundIdBak": "Chronologika.Hundotte.0"
+    },
+    {
+        "songId": "NickofTime.P4koo",
+        "songKey": "Nick of Time",
+        "songName": "Nick of Time",
+        "difficulty": [
+            5.0,
+            8.1,
+            14.6
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+            "晨 vs. XMT小咩兔",
+            "晨 vs. XMT小咩兔",
+            "NerSAN"
+        ],
+        "composer": "P4koo",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 68.5999984741211,
+        "previewTimeEnd": 83.5999984741211,
+        "soundIdBak": "NickofTime.P4koo.0"
+    },
+    {
+        "songId": "Chronomia.Lime",
+        "songKey": "Chronomia",
+        "songName": "Chronomia",
+        "difficulty": [
+            4.5,
+            11.1,
+            15.3
+        ],
+        "illustrator": "inukoro",
+        "charter": [
+            "Pcat",
+            "Rikko",
+            "時の希 & 百九十八"
+        ],
+        "composer": "Lime",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 70.38700103759766,
+        "previewTimeEnd": 87.75299835205078,
+        "soundIdBak": "Chronomia.Lime.0"
+    },
+    {
+        "songId": "ChronosCollapseLaCampanella.SunsetRay",
+        "songKey": "Chronos Collapse - La Campanella",
+        "songName": "Chronos Collapse - La Campanella",
+        "difficulty": [
+            3.0,
+            11.5,
+            15.9
+        ],
+        "illustrator": "老张",
+        "charter": [
+            "Pcat『Scatter』",
+            "阿爽『Destroy』",
+            "NerSAN vs. 阿爽 『Collapse』"
+        ],
+        "composer": "SunsetRay",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 12.21399974822998,
+        "previewTimeEnd": 30.033000946044922,
+        "soundIdBak": "ChronosCollapseLaCampanella.SunsetRay.0"
+    },
+    {
+        "songId": "Rrharil.TeamGrimoire",
+        "songKey": "Rrhar'il",
+        "songName": "Rrhar'il",
+        "difficulty": [
+            7.0,
+            12.7,
+            15.7,
+            16.8
+        ],
+        "illustrator": "犀牛坨动画工坊",
+        "charter": [
+            "RDRT -p 19:08:31",
+            "RDRT -p 20:02:21",
+            "RDRT -p 20:08:31",
+            "RWND -p 16493:62786:92551"
+        ],
+        "composer": "Team Grimoire",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 84.62200164794922,
+        "previewTimeEnd": 99.7969970703125,
+        "soundIdBak": "Rrharil.TeamGrimoire.0"
+    },
+    {
+        "songId": "CraveWave.LandRoot",
+        "songKey": "Crave Wave",
+        "songName": "Crave Wave",
+        "difficulty": [
+            3.5,
+            8.4,
+            13.6
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+            "Likey",
+            "Likey",
+            "Likey feat. 198"
+        ],
+        "composer": "LandRoot",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 95.0,
+        "previewTimeEnd": 110.0,
+        "soundIdBak": "CraveWave.LandRoot.0"
+    },
+    {
+        "songId": "TheChariotREVIIVAL.Attoclef",
+        "songKey": "The Chariot ~REVIIVAL~",
+        "songName": "The Chariot ~REVIIVAL~",
+        "difficulty": [
+            5.0,
+            9.5,
+            14.1
+        ],
+        "illustrator": "翠冷兮",
+        "charter": [
+            "M3d1uM",
+            "Alloces",
+            "Ctymax drives in BlindForest"
+        ],
+        "composer": "Attoclef",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 80.83999633789062,
+        "previewTimeEnd": 102.13500213623047,
+        "soundIdBak": "TheChariotREVIIVAL.Attoclef.0"
+    },
+    {
+        "songId": "Luminescence.米虾Fomiki初云CLoudie",
+        "songKey": "Luminescence",
+        "songName": "Luminescence",
+        "difficulty": [
+            5.5,
+            11.2,
+            14.5
+        ],
+        "illustrator": "子狼",
+        "charter": [
+            "XMT小咩兔",
+            "XMT小咩兔",
+            "Pcat & 百九十八"
+        ],
+        "composer": "米虾Fomiki & 初云CLoudie",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 106.30400085449219,
+        "previewTimeEnd": 130.4340057373047,
+        "soundIdBak": "Luminescence.米虾Fomiki初云CLoudie.0"
+    },
+    {
+        "songId": "Retribution.nmyKryexe",
+        "songKey": "Retribution",
+        "songName": "Retribution",
+        "difficulty": [
+            6.0,
+            11.6,
+            15.8
+        ],
+        "illustrator": "NerSAN",
+        "charter": [
+            "NerSAN",
+            "NerSAN",
+            "Ner as \"SPΔDE\""
+        ],
+        "composer": "nm-y & Kry.exe",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 102.31500244140625,
+        "previewTimeEnd": 122.5260009765625,
+        "soundIdBak": "Retribution.nmyKryexe.0"
+    },
+    {
+        "songId": "DESTRUCTION321.Normal1zervsBrokenNerdz",
+        "songKey": "DESTRUCTION 3,2,1",
+        "songName": "DESTRUCTION 3,2,1",
+        "difficulty": [
+            8.5,
+            13.1,
+            15.8,
+            16.6
+        ],
+        "illustrator": "rN",
+        "charter": [
+            "{Demolition,Devastation,Destruction}",
+            "{Devastation,Destruction}",
+            "{Destruction}",
+            "∅"
+        ],
+        "composer": "Normal1zer vs. Broken Nerdz",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 105.31800079345703,
+        "previewTimeEnd": 123.96099853515625,
+        "soundIdBak": "DESTRUCTION321.Normal1zervsBrokenNerdz.0"
+    },
+    {
+        "songId": "DistortedFate.Sakuzyo",
+        "songKey": "Distorted Fate",
+        "songName": "Distorted Fate",
+        "difficulty": [
+            8.1,
+            13.5,
+            15.9,
+            16.7
+        ],
+        "illustrator": "knife美工刀",
+        "charter": [
+            "De Fiance",
+            "Doubt Ful",
+            "Divination Fortune",
+            "unDefined Future"
+        ],
+        "composer": "Sakuzyo",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 99.4000015258789,
+        "previewTimeEnd": 119.4000015258789,
+        "soundIdBak": "DistortedFate.Sakuzyo.0"
+    },
+    {
+        "songId": "Doppelganger.LeaF",
+        "songKey": "Doppelganger",
+        "songName": "Doppelganger",
+        "difficulty": [
+            5.0,
+            9.8,
+            14.8
+        ],
+        "illustrator": "海产",
+        "charter": [
+            "Lumiere",
+            "Lumiere",
+            "Gausbon"
+        ],
+        "composer": "LeaF",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 3.869999885559082,
+        "previewTimeEnd": 16.61400032043457,
+        "soundIdBak": "Doppelganger.LeaF.0"
+    },
+    {
+        "songId": "もぺもぺ.LeaF",
+        "songKey": "もぺもぺ",
+        "songName": "もぺもぺ",
+        "difficulty": [
+            2.0,
+            6.5,
+            11.1,
+            14.9
+        ],
+        "illustrator": "cycat",
+        "charter": [
+            "阿爽 fixed by Barbarinerman",
+            "阿爽 fixed by Barbarinerman",
+            "阿爽",
+            "阿爽"
+        ],
+        "composer": "LeaF",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 7.199999809265137,
+        "previewTimeEnd": 21.0,
+        "soundIdBak": "もぺもぺ.LeaF.0"
+    },
+    {
+        "songId": "MARENOL.LeaF",
+        "songKey": "MARENOL",
+        "songName": "MARENOL",
+        "difficulty": [
+            2.0,
+            10.2,
+            14.2
+        ],
+        "illustrator": "喵n葵",
+        "charter": [
+            "H.C.C. fixed by Barbarinerman",
+            "H.C.C. fixed by Barbarinerman",
+            "百九十八"
+        ],
+        "composer": "LeaF",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 17.139999389648438,
+        "previewTimeEnd": 32.56999969482422,
+        "soundIdBak": "MARENOL.LeaF.0"
+    },
+    {
+        "songId": "萤火虫の怨.闫东炜",
+        "songKey": "萤火虫の怨",
+        "songName": "萤火虫の怨",
+        "difficulty": [
+            4.5,
+            10.6,
+            13.1
+        ],
+        "illustrator": "L-sp4",
+        "charter": [
+            "阿爽 & 百九十八",
+            "阿爽 & 百九十八",
+            "阿爽 & 百九十八"
+        ],
+        "composer": "闫东炜",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 102.0,
+        "previewTimeEnd": 113.4000015258789,
+        "soundIdBak": "萤火虫の怨.闫东炜.0"
+    },
+    {
+        "songId": "万吨匿名信.闫东炜",
+        "songKey": "万吨匿名信",
+        "songName": "万吨匿名信",
+        "difficulty": [
+            5.5,
+            9.7,
+            13.3
+        ],
+        "illustrator": "IvyTowers",
+        "charter": [
+            "猫の信 & 百九十八",
+            "猫の信 & 百九十八",
+            "猫の信 & 百九十八"
+        ],
+        "composer": "闫东炜",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 120.0,
+        "previewTimeEnd": 136.0,
+        "soundIdBak": "万吨匿名信.闫东炜.0"
+    },
+    {
+        "songId": "风屿.闫东炜",
+        "songKey": "风屿",
+        "songName": "风屿",
+        "difficulty": [
+            6.0,
+            10.3,
+            13.9,
+            14.8
+        ],
+        "illustrator": "cycats",
+        "charter": [
+            "Arenn Saki vs. Catcats vs. 百九十八",
+            "Arenn Saki vs. Catcats vs. 百九十八",
+            "Arenn Saki vs. Catcats vs. 百九十八",
+            "JKy"
+        ],
+        "composer": "闫东炜",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 120.0,
+        "previewTimeEnd": 142.5800018310547,
+        "soundIdBak": "风屿.闫东炜.0"
+    },
+    {
+        "songId": "dBdoll.YUESTEVENuen",
+        "songKey": "dB doll",
+        "songName": "dB doll",
+        "difficulty": [
+            1.5,
+            3.5,
+            8.3,
+            13.6
+        ],
+        "illustrator": "何呵",
+        "charter": [
+            "阿爽 fixed by Barbarianerman",
+            "阿爽 fixed by Barbarianerman",
+            "阿爽",
+            "NerSAN & 百九十八"
+        ],
+        "composer": "YUE.STEVEN/uen",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 50.619998931884766,
+        "previewTimeEnd": 68.75,
+        "soundIdBak": "dBdoll.YUESTEVENuen.0"
+    },
+    {
+        "songId": "Dash.小红Akane李祥辉",
+        "songKey": "Dash",
+        "songName": "Dash",
+        "difficulty": [
+            2.5,
+            5.5,
+            9.7
+        ],
+        "illustrator": "艾是Abby",
+        "charter": [
+            "阿爽 fixed by Barbarianerman",
+            "阿爽 fixed by Barbarianerman",
+            "JKy"
+        ],
+        "composer": "小红Akane，李祥晖",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 60.03499984741211,
+        "previewTimeEnd": 76.87200164794922,
+        "soundIdBak": "Dash.小红Akane李祥辉.0"
+    },
+    {
+        "songId": "云女孩.符白牙SiYFics",
+        "songKey": "云女孩",
+        "songName": "云女孩",
+        "difficulty": [
+            3.0,
+            9.9,
+            12.6
+        ],
+        "illustrator": "御坂果子",
+        "charter": [
+            "Cloud Catcats",
+            "Cloud Catcats",
+            "云正太"
+        ],
+        "composer": "符白牙/SiYFics",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 26.31999969482422,
+        "previewTimeEnd": 51.09000015258789,
+        "soundIdBak": "云女孩.符白牙SiYFics.0"
+    },
+    {
+        "songId": "DropIt.Asuka",
+        "songKey": "Drop It",
+        "songName": "Drop It",
+        "difficulty": [
+            4.0,
+            9.6,
+            14.3
+        ],
+        "illustrator": "TNiK",
+        "charter": [
+            "Drop Catcats",
+            "Drop Catcats",
+            "NerSAN & 百九十八"
+        ],
+        "composer": "Asuka",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 60.95000076293945,
+        "previewTimeEnd": 93.33000183105469,
+        "soundIdBak": "DropIt.Asuka.0"
+    },
+    {
+        "songId": "RIPPER.Friedwav",
+        "songKey": "RIPPER",
+        "songName": "RIPPER",
+        "difficulty": [
+            7.5,
+            11.2,
+            15.2
+        ],
+        "illustrator": "何呵",
+        "charter": [
+            "撕裂者『無極』 fixed by 晨",
+            "撕裂者『無極』 fixed by 晨",
+            "撕裂者『Alloces vs. Shin』"
+        ],
+        "composer": "Friedwav",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 107.19999694824219,
+        "previewTimeEnd": 132.8000030517578,
+        "soundIdBak": "RIPPER.Friedwav.0"
+    },
+    {
+        "songId": "Aphasia.闫东炜",
+        "songKey": "Aphasia",
+        "songName": "Aphasia",
+        "difficulty": [
+            4.0,
+            8.8,
+            13.1
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+            "百九十八",
+            "百九十八",
+            "百九十八"
+        ],
+        "composer": "闫东炜",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 82.96700286865234,
+        "previewTimeEnd": 97.96700286865234,
+        "soundIdBak": "Aphasia.闫东炜.0"
+    },
+    {
+        "songId": "开心病.闫东炜",
+        "songKey": "开心病",
+        "songName": "开心病",
+        "difficulty": [
+            6.0,
+            11.5,
+            14.2
+        ],
+        "illustrator": "昔璃",
+        "charter": [
+            "HaraKuma",
+            "HaraKuma",
+            "Barbarianerman feat. 晨"
+        ],
+        "composer": "闫东炜",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 31.141000747680664,
+        "previewTimeEnd": 42.4900016784668,
+        "soundIdBak": "开心病.闫东炜.0"
+    },
+    {
+        "songId": "華灯爱.闫东炜",
+        "songKey": "華灯爱",
+        "songName": "華灯爱",
+        "difficulty": [
+            6.0,
+            10.5,
+            14.1
+        ],
+        "illustrator": "IvyTowers",
+        "charter": [
+            "HaraKuma",
+            "HaraKuma",
+            "Barbarianerman"
+        ],
+        "composer": "闫东炜",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 82.0,
+        "previewTimeEnd": 98.0,
+        "soundIdBak": "華灯爱.闫东炜.0"
+    },
+    {
+        "songId": "FindMe.Kforest",
+        "songKey": "Find_Me",
+        "songName": "Find_Me",
+        "difficulty": [
+            5.5,
+            10.5,
+            14.4
+        ],
+        "illustrator": "YuKiMuMa",
+        "charter": [
+            "Find_Ctymax",
+            "Find_Ctymax",
+            "Find_Ctymax fixed by 百九十八"
+        ],
+        "composer": "K-forest",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 78.76000213623047,
+        "previewTimeEnd": 93.76000213623047,
+        "soundIdBak": "FindMe.Kforest.0"
+    },
+    {
+        "songId": "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻",
+        "songKey": "Sein",
+        "songName": "Sein",
+        "difficulty": [
+            4.5,
+            9.8,
+            14.9
+        ],
+        "illustrator": "hideo",
+        "charter": [
+            "A.S.H",
+            "A.S.H",
+            "A.S.H&晨"
+        ],
+        "composer": "朔(Apo11o program vs. お月さま交響曲) ft. kuroa×荒巻",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 37.737998962402344,
+        "previewTimeEnd": 52.1870002746582,
+        "soundIdBak": "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0"
+    },
+    {
+        "songId": "狂喜蘭舞.LeaF",
+        "songKey": "狂喜蘭舞",
+        "songName": "狂喜蘭舞",
+        "difficulty": [
+            7.0,
+            11.7,
+            14.5,
+            16.1
+        ],
+        "illustrator": "DoublePian",
+        "charter": [
+            "Catcats a.k.a. 無極 vs. H.C.C. fixed by 晨",
+            "Catcats a.k.a. 無極 vs. H.C.C. fixed by Pcat",
+            "晨",
+            "Catcats a.k.a. 無極 vs. H.C.C. fixed by 野从&晨"
+        ],
+        "composer": "LeaF",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 61.560001373291016,
+        "previewTimeEnd": 79.30000305175781,
+        "soundIdBak": "狂喜蘭舞.LeaF.0"
+    },
+    {
+        "songId": "SparkleNewLife.rider",
+        "songKey": "Sparkle New Life",
+        "songName": "Sparkle New Life",
+        "difficulty": [
+            4.0,
+            9.2,
+            12.8
+        ],
+        "illustrator": "1B",
+        "charter": [
+            "Sparkle Ctymax",
+            "Sparkle Ctymax",
+            "Sparkle Ctymax fixed by 百九十八"
+        ],
+        "composer": "rider",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 32.0,
+        "previewTimeEnd": 47.0,
+        "soundIdBak": "SparkleNewLife.rider.0"
+    },
+    {
+        "songId": "KhronostasisKatharsis.Halv",
+        "songKey": "Khronostasis Katharsis",
+        "songName": "Khronostasis Katharsis",
+        "difficulty": [
+            5.5,
+            11.6,
+            14.2
+        ],
+        "illustrator": "utosao",
+        "charter": [
+            "XMT小咩兔 & Myna",
+            "XMT小咩兔 & Myna",
+            "StupiGGy fixed by 百九十八"
+        ],
+        "composer": "Halv",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 84.5,
+        "previewTimeEnd": 100.5,
+        "soundIdBak": "KhronostasisKatharsis.Halv.0"
+    },
+    {
+        "songId": "SnowDesert.WyvernP",
+        "songKey": "Snow Desert",
+        "songName": "Snow Desert",
+        "difficulty": [
+            5.0,
+            10.3,
+            13.3
+        ],
+        "illustrator": "knife美工刀",
+        "charter": [
+            "VikingNexus",
+            "VikingNexus",
+            "VikingNexus"
+        ],
+        "composer": "WyvernP",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 77.5,
+        "previewTimeEnd": 92.5,
+        "soundIdBak": "SnowDesert.WyvernP.0"
+    },
+    {
+        "songId": "Burn.NceS",
+        "songKey": "Burn",
+        "songName": "Burn",
+        "difficulty": [
+            6.0,
+            10.6,
+            14.9
+        ],
+        "illustrator": "knife美工刀",
+        "charter": [
+            "Ctymatch Girl",
+            "Burn Full Catcats",
+            "Burn Full Catcats vs. Ctymatch Girl"
+        ],
+        "composer": "NceS",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 81.0,
+        "previewTimeEnd": 96.0,
+        "soundIdBak": "Burn.NceS.0"
+    },
+    {
+        "songId": "Aleph0.LeaF",
+        "songKey": "Aleph-0",
+        "songName": "Aleph-0",
+        "difficulty": [
+            3.5,
+            12.2,
+            15.7,
+            15.6
+        ],
+        "illustrator": "Optie",
+        "charter": [
+            "Clutter",
+            "Clutter",
+            "Clutter",
+            "阿爽 VS Arenn Saki"
+        ],
+        "composer": "LeaF",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "Legacy"
+        ],
+        "previewTimeStart": 11.519000053405762,
+        "previewTimeEnd": 26.45599937438965,
+        "soundIdBak": "Aleph0.LeaF.0"
+    },
+    {
+        "songId": "NextTime.SaMZIng",
+        "songKey": "Next Time",
+        "songName": "Next Time",
+        "difficulty": [
+            6.0,
+            9.2,
+            12.6
+        ],
+        "illustrator": "叶藤",
+        "charter": [
+            "Gausbon ~ See you next time ~ ",
+            "Gausbon ~ See you next time ~ ",
+            "Gausbon ~ See you next time ~ "
+        ],
+        "composer": "SaMZIng",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 45.24700164794922,
+        "previewTimeEnd": 67.20999908447266,
+        "soundIdBak": "NextTime.SaMZIng.0"
+    },
+    {
+        "songId": "RubbishSorting.CtymaxvsNceS",
+        "songKey": "Rubbish Sorting",
+        "songName": "Rubbish Sorting",
+        "difficulty": [
+            3.5,
+            9.4,
+            13.2
+        ],
+        "illustrator": "knife美工刀",
+        "charter": [
+            "阿爽 vs. Ctymax -Haose 垃圾-",
+            "阿爽 vs. Ctymax -Haose 垃圾-",
+            "阿爽 vs. Ctymax -Haose 垃圾-"
+        ],
+        "composer": "Ctymax vs. NceS",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 46.869998931884766,
+        "previewTimeEnd": 63.7400016784668,
+        "soundIdBak": "RubbishSorting.CtymaxvsNceS.0"
+    },
+    {
+        "songId": "AnotherMe.NeutralMoon",
+        "songKey": "Another Me",
+        "songName": "Another Me",
+        "difficulty": [
+            5.5,
+            9.2,
+            13.6
+        ],
+        "illustrator": "IvyTowers",
+        "charter": [
+            "Another M3",
+            "Another M3",
+            "NerSAN"
+        ],
+        "composer": "Neutral Moon",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 76.91600036621094,
+        "previewTimeEnd": 98.75,
+        "soundIdBak": "AnotherMe.NeutralMoon.0"
+    },
+    {
+        "songId": "mechanted.rareguy",
+        "songKey": "mechanted",
+        "songName": "mechanted",
+        "difficulty": [
+            2.5,
+            11.3,
+            14.7
+        ],
+        "illustrator": "IvyTowers",
+        "charter": [
+            "Ctymax",
+            "Ctymax",
+            "Ctymax"
+        ],
+        "composer": "rareguy",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 83.74099731445312,
+        "previewTimeEnd": 101.86599731445312,
+        "soundIdBak": "mechanted.rareguy.0"
+    },
+    {
+        "songId": "lifeflashesbeforeweebeyes.BilliumMoto",
+        "songKey": "life flashes before weeb eyes",
+        "songName": "life flashes before weeb eyes",
+        "difficulty": [
+            6.5,
+            11.9,
+            14.8
+        ],
+        "illustrator": "百九十八",
+        "charter": [
+            "百九十八",
+            "百九十八",
+            "百九十八"
+        ],
+        "composer": "BilliumMoto",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 17.972999572753906,
+        "previewTimeEnd": 33.03900146484375,
+        "soundIdBak": "lifeflashesbeforeweebeyes.BilliumMoto.0"
+    },
+    {
+        "songId": "BreakThroughTheBarrier.lixound",
+        "songKey": "Break Through The Barrier",
+        "songName": "Break Through The Barrier",
+        "difficulty": [
+            5.5,
+            10.1,
+            14.5,
+            15.0
+        ],
+        "illustrator": "Xquid",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "百九十八",
+            "Catcats"
+        ],
+        "composer": "lixound",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "Legacy"
+        ],
+        "previewTimeStart": 77.72000122070312,
+        "previewTimeEnd": 99.54000091552734,
+        "soundIdBak": "BreakThroughTheBarrier.lixound.0"
+    },
+    {
+        "songId": "Chronostasis.黒皇帝",
+        "songKey": "Chronostasis",
+        "songName": "Chronostasis",
+        "difficulty": [
+            6.5,
+            11.2,
+            15.8
+        ],
+        "illustrator": "Sand",
+        "charter": [
+            "Uvernight",
+            "Uvernight",
+            "Gausbon fixed by XMT"
+        ],
+        "composer": "黒皇帝",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 36.28300094604492,
+        "previewTimeEnd": 51.51100158691406,
+        "soundIdBak": "Chronostasis.黒皇帝.0"
+    },
+    {
+        "songId": "DeadSoul.SoundSouler",
+        "songKey": "Dead Soul",
+        "songName": "Dead Soul",
+        "difficulty": [
+            4.5,
+            11.7,
+            14.4
+        ],
+        "illustrator": "Photonskyto",
+        "charter": [
+            "Phigros Charting Team",
+            "Phigros Charting Team",
+            "Phigros Charting Team"
+        ],
+        "composer": "Sound Souler",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 14.626999855041504,
+        "previewTimeEnd": 34.09600067138672,
+        "soundIdBak": "DeadSoul.SoundSouler.0"
+    },
+    {
+        "songId": "InfinityHeaven.HyuN",
+        "songKey": "Infinity Heaven",
+        "songName": "Infinity Heaven",
+        "difficulty": [
+            3.5,
+            8.4,
+            13.9
+        ],
+        "illustrator": "DoublePian",
+        "charter": [
+            "晨 vs. 阿爽",
+            "晨 vs. 阿爽",
+            "晨 vs. 阿爽"
+        ],
+        "composer": "HyuN",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 48.82600021362305,
+        "previewTimeEnd": 73.44999694824219,
+        "soundIdBak": "InfinityHeaven.HyuN.0"
+    },
+    {
+        "songId": "Disorder.HyuNfeatYURI",
+        "songKey": "Disorder",
+        "songName": "Disorder",
+        "difficulty": [
+            5.5,
+            9.8,
+            14.7
+        ],
+        "illustrator": "Nabom",
+        "charter": [
+            "Gausbon",
+            "Gausbon",
+            "Gausbon"
+        ],
+        "composer": "HyuN feat. YURI",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 27.38599967956543,
+        "previewTimeEnd": 47.308998107910156,
+        "soundIdBak": "Disorder.HyuNfeatYURI.0"
+    },
+    {
+        "songId": "CROSSSOUL.HyuNfeatSyepias",
+        "songKey": "CROSS†SOUL",
+        "songName": "CROSS†SOUL",
+        "difficulty": [
+            7.5,
+            12.8,
+            15.9
+        ],
+        "illustrator": "knife美工刀",
+        "charter": [
+            "無†極",
+            "無†極 fixed by Rikko",
+            "無†極"
+        ],
+        "composer": "HyuN feat. Syepias",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 92.4000015258789,
+        "previewTimeEnd": 111.5999984741211,
+        "soundIdBak": "CROSSSOUL.HyuNfeatSyepias.0"
+    },
+    {
+        "songId": "SpeedUp.DarTokki",
+        "songKey": "Speed Up!",
+        "songName": "Speed Up!",
+        "difficulty": [
+            4.5,
+            10.3,
+            14.3
+        ],
+        "illustrator": "TNiK",
+        "charter": [
+            "Ctymax vs. 百九十八",
+            "Ctymax vs. 百九十八",
+            "Ctymax vs. 百九十八"
+        ],
+        "composer": "DarTokki",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 57.10300064086914,
+        "previewTimeEnd": 72.10299682617188,
+        "soundIdBak": "SpeedUp.DarTokki.0"
+    },
+    {
+        "songId": "MagentaPotion.EmoCo",
+        "songKey": "Magenta Potion",
+        "songName": "Magenta Potion",
+        "difficulty": [
+            6.5,
+            11.3,
+            14.5
+        ],
+        "illustrator": "NOISER",
+        "charter": [
+            "Ctymax vs. 晨",
+            "Ctymax vs. 晨",
+            "Ctymax vs. 晨"
+        ],
+        "composer": "EmoCo.",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 28.395000457763672,
+        "previewTimeEnd": 47.98899841308594,
+        "soundIdBak": "MagentaPotion.EmoCo.0"
+    },
+    {
+        "songId": "GetBack.CAP3",
+        "songKey": "Get Back",
+        "songName": "Get Back",
+        "difficulty": [
+            6.5,
+            11.4,
+            14.1
+        ],
+        "illustrator": "TNiK",
+        "charter": [
+            "JKy",
+            "JKy",
+            "JKy"
+        ],
+        "composer": "CAP3",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 30.0,
+        "previewTimeEnd": 46.875,
+        "soundIdBak": "GetBack.CAP3.0"
+    },
+    {
+        "songId": "Palescreen.WyvernPfeatMadol",
+        "songKey": "Palescreen",
+        "songName": "Palescreen",
+        "difficulty": [
+            5.5,
+            12.3,
+            15.7
+        ],
+        "illustrator": "GAMEBAKA",
+        "charter": [
+            "Jeitie",
+            "Jeitie",
+            "Jeitie"
+        ],
+        "composer": "WyvernP feat. Madol",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 24.97100067138672,
+        "previewTimeEnd": 38.49700164794922,
+        "soundIdBak": "Palescreen.WyvernPfeatMadol.0"
+    },
+    {
+        "songId": "GOODTEK.EBIMAYO",
+        "songKey": "GOODTEK",
+        "songName": "GOODTEK",
+        "difficulty": [
+            5.5,
+            10.8,
+            14.1
+        ],
+        "illustrator": "Ctymax feat. EBIMAYO",
+        "charter": [
+            "百九十八",
+            "百九十八",
+            "百九十八"
+        ],
+        "composer": "EBIMAYO",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 91.89299774169922,
+        "previewTimeEnd": 106.89299774169922,
+        "soundIdBak": "GOODTEK.EBIMAYO.0"
+    },
+    {
+        "songId": "GOODBOUNCE.EBIMAYO",
+        "songKey": "GOODBOUNCE",
+        "songName": "GOODBOUNCE",
+        "difficulty": [
+            6.5,
+            11.6,
+            14.4
+        ],
+        "illustrator": "EBIMAYO",
+        "charter": [
+            "Gausbounce & 晨",
+            "Gausbounce",
+            "Ctymax vs. Gausbounce"
+        ],
+        "composer": "EBIMAYO",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 44.0,
+        "previewTimeEnd": 64.0,
+        "soundIdBak": "GOODBOUNCE.EBIMAYO.0"
+    },
+    {
+        "songId": "GOODWORLD.EBIMAYO",
+        "songKey": "GOODWORLD",
+        "songName": "GOODWORLD",
+        "difficulty": [
+            3.0,
+            11.4,
+            14.7
+        ],
+        "illustrator": "EBIMAYO",
+        "charter": [
+            "阿爽",
+            "StupiGGy",
+            "StupiGGy vs. 阿爽"
+        ],
+        "composer": "EBIMAYO",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 105.82599639892578,
+        "previewTimeEnd": 123.46299743652344,
+        "soundIdBak": "GOODWORLD.EBIMAYO.0"
+    },
+    {
+        "songId": "GOODFORTUNE.EBIMAYO",
+        "songKey": "GOODFORTUNE",
+        "songName": "GOODFORTUNE",
+        "difficulty": [
+            7.5,
+            8.7,
+            15.4
+        ],
+        "illustrator": "Ctymax",
+        "charter": [
+            "晨",
+            "晨",
+            "晨"
+        ],
+        "composer": "EBIMAYO",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 102.70500183105469,
+        "previewTimeEnd": 117.70500183105469,
+        "soundIdBak": "GOODFORTUNE.EBIMAYO.0"
+    },
+    {
+        "songId": "GOODRAGE.EBIMAYO",
+        "songKey": "GOODRAGE",
+        "songName": "GOODRAGE",
+        "difficulty": [
+            4.5,
+            8.2,
+            15.7
+        ],
+        "illustrator": "Ctymax feat. EBIMAYO",
+        "charter": [
+            "阿爽",
+            "阿爽",
+            "Ctymax vs. 阿爽"
+        ],
+        "composer": "EBIMAYO",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 90.80999755859375,
+        "previewTimeEnd": 109.18000030517578,
+        "soundIdBak": "GOODRAGE.EBIMAYO.0"
+    },
+    {
+        "songId": "TheMountainEater.PaulBazooka",
+        "songKey": "The Mountain Eater",
+        "songName": "The Mountain Eater",
+        "difficulty": [
+            5.5,
+            9.1,
+            14.6
+        ],
+        "illustrator": "START SEED",
+        "charter": [
+            "百九十八",
+            "百九十八",
+            "百九十八"
+        ],
+        "composer": "Paul Bazooka",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 18.89699935913086,
+        "previewTimeEnd": 33.89699935913086,
+        "soundIdBak": "TheMountainEater.PaulBazooka.0"
+    },
+    {
+        "songId": "Orthodox.tokiwa",
+        "songKey": "Orthodox",
+        "songName": "Orthodox",
+        "difficulty": [
+            4.5,
+            10.6,
+            14.1
+        ],
+        "illustrator": "cycats",
+        "charter": [
+            "StR-1",
+            "StR-1",
+            "Uvernight fixed by StR-1"
+        ],
+        "composer": "tokiwa",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 55.44300079345703,
+        "previewTimeEnd": 70.44300079345703,
+        "soundIdBak": "Orthodox.tokiwa.0"
+    },
+    {
+        "songId": "EndMe.ZxNXasDelaina",
+        "songKey": "End Me",
+        "songName": "End Me",
+        "difficulty": [
+            6.0,
+            7.5,
+            14.1
+        ],
+        "illustrator": "何呵",
+        "charter": [
+            "鲲",
+            "鲲",
+            "鲲 fixed by 百九十八"
+        ],
+        "composer": "ZxNX as \"Delaina\"",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 66.0,
+        "previewTimeEnd": 86.0,
+        "soundIdBak": "EndMe.ZxNXasDelaina.0"
+    },
+    {
+        "songId": "ParallelRetrogressionGameVer.Tetrajectory",
+        "songKey": "Parallel Retrogression(Game Ver.)",
+        "songName": "Parallel Retrogression(Game Ver.)",
+        "difficulty": [
+            7.0,
+            10.7,
+            14.4
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+            "HaraKuma",
+            "HaraKuma",
+            "HaraKuma"
+        ],
+        "composer": "Tetrajectory",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 55.29999923706055,
+        "previewTimeEnd": 75.30000305175781,
+        "soundIdBak": "ParallelRetrogressionGameVer.Tetrajectory.0"
+    },
+    {
+        "songId": "Starduster.Quree",
+        "songKey": "Starduster",
+        "songName": "Starduster",
+        "difficulty": [
+            5.5,
+            11.4,
+            15.1
+        ],
+        "illustrator": "IvyTowers",
+        "charter": [
+            "NerSAN",
+            "NerSAN",
+            "NerSAN"
+        ],
+        "composer": "Quree",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 63.29999923706055,
+        "previewTimeEnd": 80.69999694824219,
+        "soundIdBak": "Starduster.Quree.0"
+    },
+    {
+        "songId": "Electron.ElousFZ",
+        "songKey": "Electron",
+        "songName": "Electron",
+        "difficulty": [
+            3.5,
+            10.4,
+            13.2
+        ],
+        "illustrator": "DoublePian",
+        "charter": [
+            "百九十八",
+            "百九十八",
+            "百九十八"
+        ],
+        "composer": "ElousΛ.-FZ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 48.0,
+        "previewTimeEnd": 58.0,
+        "soundIdBak": "Electron.ElousFZ.0"
+    },
+    {
+        "songId": "SIGMA.Kryexe",
+        "songKey": "SIGMA",
+        "songName": "SIGMA",
+        "difficulty": [
+            5.0,
+            11.5,
+            15.6
+        ],
+        "illustrator": "塔塔",
+        "charter": [
+            "Barbarianerman.exe",
+            "Bσrbσriσnermσn.exe",
+            "Bσrbσriσn∑rmσn.∑x∑"
+        ],
+        "composer": "Kry.exe",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 42.2400016784668,
+        "previewTimeEnd": 62.720001220703125,
+        "soundIdBak": "SIGMA.Kryexe.0"
+    },
+    {
+        "songId": "HardcoreKwaya.EnFr",
+        "songKey": "Hardcore Kwaya",
+        "songName": "Hardcore Kwaya",
+        "difficulty": [
+            4.5,
+            8.5,
+            14.6
+        ],
+        "illustrator": "EnFr",
+        "charter": [
+            "One skunk (Ctymax) in Africa",
+            "Hardcore Barbaya",
+            "Two skunks (Ctymax and 晨) in Africa shouting WAHHHHHH!"
+        ],
+        "composer": "EnFr",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 78.5,
+        "previewTimeEnd": 91.5,
+        "soundIdBak": "HardcoreKwaya.EnFr.0"
+    },
+    {
+        "songId": "Aventyr.GrandThawRigelTheatre",
+        "songKey": "Aventyr",
+        "songName": "Äventyr",
+        "difficulty": [
+            3.0,
+            9.4,
+            13.7
+        ],
+        "illustrator": "Grand Thaw / Rigël Theatre",
+        "charter": [
+            "Barbarianerman",
+            "Snorkel",
+            "Barbarianerman vs. Snorkel"
+        ],
+        "composer": "Grand Thaw / Rigël Theatre",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 9.199999809265137,
+        "previewTimeEnd": 31.076000213623047,
+        "soundIdBak": "Aventyr.GrandThawRigelTheatre.0"
+    },
+    {
+        "songId": "Trane.MALVA",
+        "songKey": "Trane",
+        "songName": "Träne",
+        "difficulty": [
+            1.5,
+            6.5,
+            14.2
+        ],
+        "illustrator": "しえろ",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "Barbarianerman"
+        ],
+        "composer": "MALVA.",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 3.200000047683716,
+        "previewTimeEnd": 25.24799919128418,
+        "soundIdBak": "Trane.MALVA.0"
+    },
+    {
+        "songId": "雪降りメリクリ.A39",
+        "songKey": "雪降り、メリクリ",
+        "songName": "雪降り、メリクリ",
+        "difficulty": [
+            5.5,
+            10.4,
+            15.3
+        ],
+        "illustrator": "犀牛坨动画工坊",
+        "charter": [
+            "Merry xmAS",
+            "Merry ChristymAxS",
+            "N\\erry Xmas"
+        ],
+        "composer": "A-39",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 20.663999557495117,
+        "previewTimeEnd": 42.0099983215332,
+        "soundIdBak": "雪降りメリクリ.A39.0"
+    },
+    {
+        "songId": "CervelleConnexion.SCTL",
+        "songKey": "Cervelle Connexion",
+        "songName": "Cervelle Connexion",
+        "difficulty": [
+            5.0,
+            11.3,
+            14.5
+        ],
+        "illustrator": "SCTL",
+        "charter": [
+            "Eastern Ailuropoda Gang",
+            "Eastern Ailuropoda Gang",
+            "Eastern Ailuropoda Gang"
+        ],
+        "composer": "SCTL",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 99.29499816894531,
+        "previewTimeEnd": 114.51399993896484,
+        "soundIdBak": "CervelleConnexion.SCTL.0"
+    },
+    {
+        "songId": "modulus.PTB10",
+        "songKey": "modulus",
+        "songName": "modulus",
+        "difficulty": [
+            3.5,
+            10.1,
+            14.7
+        ],
+        "illustrator": "geralt",
+        "charter": [
+            "Cty moyules",
+            "Cty moyules",
+            "Pat Brick Man Mr.C"
+        ],
+        "composer": "PTB10",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 86.0,
+        "previewTimeEnd": 101.0,
+        "soundIdBak": "modulus.PTB10.0"
+    },
+    {
+        "songId": "Wavetapper.Frums",
+        "songKey": "Wavetapper",
+        "songName": "Wavetapper",
+        "difficulty": [
+            6.0,
+            9.4,
+            13.9
+        ],
+        "illustrator": "百九十八",
+        "charter": [
+            "Sillyp",
+            "Sillyp",
+            "百九十八 vs. Barbarianerman"
+        ],
+        "composer": "Frums",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 2.1389999389648438,
+        "previewTimeEnd": 19.297000885009766,
+        "soundIdBak": "Wavetapper.Frums.0"
+    },
+    {
+        "songId": "大和撫子WildDances.adapatorvsDRIVE",
+        "songKey": "大和撫子 -Wild Dances-",
+        "songName": "大和撫子 -Wild Dances-",
+        "difficulty": [
+            5.5,
+            11.8,
+            14.8
+        ],
+        "illustrator": "りゅうら",
+        "charter": [
+            "Eaimo fixed by NerSAN",
+            "Eaimo fixed by NerSAN",
+            "Eaimo vs. CtyNer dancing wildly"
+        ],
+        "composer": "adaptor vs DRIVE.",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 62.0099983215332,
+        "previewTimeEnd": 79.01100158691406,
+        "soundIdBak": "大和撫子WildDances.adapatorvsDRIVE.0"
+    },
+    {
+        "songId": "Eltaw.Fl00t",
+        "songKey": "Eltaw",
+        "songName": "Eltaw",
+        "difficulty": [
+            6.5,
+            10.5,
+            14.7
+        ],
+        "illustrator": "xperz",
+        "charter": [
+            "JKy",
+            "JKy",
+            "BarbariaNERman vs. JKy"
+        ],
+        "composer": "Fl00t",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 90.01499938964844,
+        "previewTimeEnd": 110.0510025024414,
+        "soundIdBak": "Eltaw.Fl00t.0"
+    },
+    {
+        "songId": "Initialize.iF",
+        "songKey": "Initialize",
+        "songName": "Initialize",
+        "difficulty": [
+            2.5,
+            7.0,
+            11.6
+        ],
+        "illustrator": "あおお/A-ZERO, morph",
+        "charter": [
+            "阿爽",
+            "NerSAN",
+            "Arenn Saki vs. NerSAN"
+        ],
+        "composer": "iF",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 15.005000114440918,
+        "previewTimeEnd": 31.889999389648438,
+        "soundIdBak": "Initialize.iF.0"
+    },
+    {
+        "songId": "桜樹街道.kozatosnow",
+        "songKey": "桜樹街道",
+        "songName": "桜樹街道",
+        "difficulty": [
+            3.5,
+            7.5,
+            13.4
+        ],
+        "illustrator": "あおお/A-ZERO, morph",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "百九十八"
+        ],
+        "composer": "kozato snow",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 107.55500030517578,
+        "previewTimeEnd": 122.55500030517578,
+        "soundIdBak": "桜樹街道.kozatosnow.0"
+    },
+    {
+        "songId": "GetReady.iF",
+        "songKey": "Get Ready!! ",
+        "songName": "Get Ready!! ",
+        "difficulty": [
+            5.0,
+            10.2,
+            13.8
+        ],
+        "illustrator": "あおお/A-ZERO, morph",
+        "charter": [
+            "StupiGGy",
+            "StupiGGy",
+            "StupiGGy"
+        ],
+        "composer": "iF",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 96.33799743652344,
+        "previewTimeEnd": 109.85900115966797,
+        "soundIdBak": "GetReady.iF.0"
+    },
+    {
+        "songId": "volcanic.DETROakaルゼ",
+        "songKey": "volcanic",
+        "songName": "volcanic",
+        "difficulty": [
+            7.5,
+            11.9,
+            14.6,
+            16.2
+        ],
+        "illustrator": "あおお/A-ZERO, morph",
+        "charter": [
+            "Barbarianerman",
+            "Rikko",
+            "Ctymax in a volcano, very delicious",
+            "Alloces"
+        ],
+        "composer": "DETRO a.k.a. ルゼ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 111.83200073242188,
+        "previewTimeEnd": 131.93699645996094,
+        "soundIdBak": "volcanic.DETROakaルゼ.0"
+    },
+    {
+        "songId": "BetterGraphicAnimation.ルゼ",
+        "songKey": "Better Graphic Animation",
+        "songName": "Better Graphic Animation",
+        "difficulty": [
+            6.5,
+            11.7,
+            15.3
+        ],
+        "illustrator": "A-Zero Project",
+        "charter": [
+            "NerSAN",
+            "NerSAN",
+            "縱連打の信者☆無極"
+        ],
+        "composer": "ルゼ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 44.0,
+        "previewTimeEnd": 62.7140007019043,
+        "soundIdBak": "BetterGraphicAnimation.ルゼ.0"
+    },
+    {
+        "songId": "XING.ginkiha",
+        "songKey": "XING",
+        "songName": "XING",
+        "difficulty": [
+            5.5,
+            9.9,
+            13.9
+        ],
+        "illustrator": "打雷打人（青鸟 modified）",
+        "charter": [
+            "StupiGGy",
+            "StupiGGy",
+            "Sillyp vs. 阿爽"
+        ],
+        "composer": "ginkiha",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 85.08799743652344,
+        "previewTimeEnd": 107.12200164794922,
+        "soundIdBak": "XING.ginkiha.0"
+    },
+    {
+        "songId": "FinalStep.Lime",
+        "songKey": "Final Step!",
+        "songName": "Final Step!",
+        "difficulty": [
+            6.0,
+            11.8,
+            14.3
+        ],
+        "illustrator": "谷地（青鸟 modified）",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "Barbarianerman vs. Uvernight"
+        ],
+        "composer": "Lime",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 110.66000366210938,
+        "previewTimeEnd": 134.0,
+        "soundIdBak": "FinalStep.Lime.0"
+    },
+    {
+        "songId": "Cthugha.USAO",
+        "songKey": "Cthugha",
+        "songName": "Cthugha",
+        "difficulty": [
+            6.0,
+            10.8,
+            15.6,
+            15.8
+        ],
+        "illustrator": "谷地（青鸟 modified）",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "Gausbon",
+            "百九十八 feat. NerSAN"
+        ],
+        "composer": "USAO",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 56.9010009765625,
+        "previewTimeEnd": 79.43599700927734,
+        "soundIdBak": "Cthugha.USAO.0"
+    },
+    {
+        "songId": "WithYou.Cashew",
+        "songKey": "With You",
+        "songName": "With You",
+        "difficulty": [
+            3.5,
+            9.3,
+            13.4
+        ],
+        "illustrator": "ADZUKI",
+        "charter": [
+            "with U",
+            "with U",
+            "with U"
+        ],
+        "composer": "Cashew",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 109.0999984741211,
+        "previewTimeEnd": 127.0999984741211,
+        "soundIdBak": "WithYou.Cashew.0"
+    },
+    {
+        "songId": "UnorthodoxThoughts.Joulez",
+        "songKey": "Unorthodox Thoughts",
+        "songName": "Unorthodox Thoughts",
+        "difficulty": [
+            5.0,
+            11.3,
+            13.9
+        ],
+        "illustrator": "ASXX",
+        "charter": [
+            "Barbarianerman",
+            "HaraKuma",
+            "Barbarianerman vs. HaraKuma"
+        ],
+        "composer": "Joulez",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 108.0,
+        "previewTimeEnd": 126.57499694824219,
+        "soundIdBak": "UnorthodoxThoughts.Joulez.0"
+    },
+    {
+        "songId": "Apocalyptic.ZClaxxSumaiLight",
+        "songKey": "Apocalyptic",
+        "songName": "Apocalyptic",
+        "difficulty": [
+            3.0,
+            9.6,
+            13.8
+        ],
+        "illustrator": "佑木いずみ & Ctymax",
+        "charter": [
+            "阿爽",
+            "NerSAN",
+            "NerSAN vs. 阿爽"
+        ],
+        "composer": "Z ClaxX & SumaiLight",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 106.74500274658203,
+        "previewTimeEnd": 119.5469970703125,
+        "soundIdBak": "Apocalyptic.ZClaxxSumaiLight.0"
+    },
+    {
+        "songId": "游园地.椒盐菠萝",
+        "songKey": "游园地",
+        "songName": "游园地",
+        "difficulty": [
+            3.0,
+            7.5,
+            13.2
+        ],
+        "illustrator": "CEM",
+        "charter": [
+            "野从菠萝",
+            "野从菠萝",
+            "椒盐倪尔"
+        ],
+        "composer": "椒盐菠萝",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 76.81500244140625,
+        "previewTimeEnd": 93.75,
+        "soundIdBak": "游园地.椒盐菠萝.0"
+    },
+    {
+        "songId": "energytrixxx.KAH",
+        "songKey": "energy trixxx",
+        "songName": "energy trixxx",
+        "difficulty": [
+            4.5,
+            11.4,
+            15.2
+        ],
+        "illustrator": "手鞠鈴 & 自動車 原付",
+        "charter": [
+            "NerSAN",
+            "NerSANN",
+            "NerSANNN"
+        ],
+        "composer": "KAH",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 96.0,
+        "previewTimeEnd": 111.0,
+        "soundIdBak": "energytrixxx.KAH.0"
+    },
+    {
+        "songId": "Nhelv.Silentroom",
+        "songKey": "Nhelv",
+        "songName": "Nhelv",
+        "difficulty": [
+            1.5,
+            11.9,
+            15.4
+        ],
+        "illustrator": "駿",
+        "charter": [
+            "野从",
+            "StupiGGy",
+            "森德雷斯 vs. 百九十八"
+        ],
+        "composer": "Silentroom",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 67.01399993896484,
+        "previewTimeEnd": 82.01399993896484,
+        "soundIdBak": "Nhelv.Silentroom.0"
+    },
+    {
+        "songId": "Arkhei.SeraAmagi",
+        "songKey": "-Arkhei-",
+        "songName": "-Arkhei-",
+        "difficulty": [
+            6.5,
+            9.7,
+            12.6
+        ],
+        "illustrator": "Hachimitsu☆Boy",
+        "charter": [
+            "-JKy-",
+            "-JKy-",
+            "-JKy-"
+        ],
+        "composer": "Sera Amagi",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 64.0,
+        "previewTimeEnd": 80.0,
+        "soundIdBak": "Arkhei.SeraAmagi.0"
+    },
+    {
+        "songId": "Kerberos.Zris",
+        "songKey": "Kerberos",
+        "songName": "Kerberos",
+        "difficulty": [
+            5.5,
+            12.4,
+            15.5
+        ],
+        "illustrator": "Eridani",
+        "charter": [
+            "Alloces",
+            "NerSAN",
+            "Snorkel vs. NerSAN"
+        ],
+        "composer": "Zris",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 99.89800262451172,
+        "previewTimeEnd": 115.0,
+        "soundIdBak": "Kerberos.Zris.0"
+    },
+    {
+        "songId": "parsey.siqlo",
+        "songKey": "ρars/ey",
+        "songName": "ρars/ey",
+        "difficulty": [
+            4.0,
+            11.3,
+            14.7
+        ],
+        "illustrator": "出前 x nekomiya",
+        "charter": [
+            "Rikko",
+            "Rikko & TangScend",
+            "TangScend"
+        ],
+        "composer": "siqlo",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 21.33300018310547,
+        "previewTimeEnd": 45.33300018310547,
+        "soundIdBak": "parsey.siqlo.0"
+    },
+    {
+        "songId": "Concvssion.Halv",
+        "songKey": "Concvssion",
+        "songName": "Concvssion",
+        "difficulty": [
+            5.5,
+            11.3,
+            15.5
+        ],
+        "illustrator": "汉堡",
+        "charter": [
+            "J.R",
+            "晨",
+            "Phigros Charting Team"
+        ],
+        "composer": "Halv",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 96.0199966430664,
+        "previewTimeEnd": 117.48200225830078,
+        "soundIdBak": "Concvssion.Halv.0"
+    },
+    {
+        "songId": "ジングルベルJingleBell.A39沙包P",
+        "songKey": "ジングルベル(Jingle Bell)",
+        "songName": "ジングルベル(Jingle Bell)",
+        "difficulty": [
+            4.5,
+            8.3,
+            14.5
+        ],
+        "illustrator": "爱39的Konya",
+        "charter": [
+            "merry CNrisTimas",
+            "merry XM AS",
+            "NerSANTA vs. BarbarianerSLEDGE"
+        ],
+        "composer": "A-39/沙包P",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 23.31399917602539,
+        "previewTimeEnd": 43.8849983215332,
+        "soundIdBak": "ジングルベルJingleBell.A39沙包P.0"
+    },
+    {
+        "songId": "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX",
+        "songKey": "Time to Night Sky (feat. Lee Yu Jin)",
+        "songName": "Time to Night Sky (feat. Lee Yu Jin)",
+        "difficulty": [
+            3.0,
+            10.1,
+            13.6
+        ],
+        "illustrator": "ZG",
+        "charter": [
+            "Rikko",
+            "Barbarianerman",
+            "Likey & 198ar"
+        ],
+        "composer": "HyuN & KLYDIX",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 61.875999450683594,
+        "previewTimeEnd": 78.74500274658203,
+        "soundIdBak": "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0"
+    },
+    {
+        "songId": "HAZARD.Limpid",
+        "songKey": "HAZARD",
+        "songName": "HAZARD",
+        "difficulty": [
+            4.5,
+            10.9,
+            14.7
+        ],
+        "illustrator": "ZG",
+        "charter": [
+            "NerSAN",
+            "NerSAN",
+            "阿爽"
+        ],
+        "composer": "Limpid",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 28.132999420166016,
+        "previewTimeEnd": 46.888999938964844,
+        "soundIdBak": "HAZARD.Limpid.0"
+    },
+    {
+        "songId": "AnotherMe.DAAN",
+        "songKey": "Another Me ",
+        "songName": "Another Me",
+        "difficulty": [
+            5.0,
+            9.2,
+            15.4
+        ],
+        "illustrator": "ZG",
+        "charter": [
+            "Pcat",
+            "Another cat",
+            "NerSAN vs. Ctymax as \"泥头鱼\""
+        ],
+        "composer": "D_AAN",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 24.0,
+        "previewTimeEnd": 42.28499984741211,
+        "soundIdBak": "AnotherMe.DAAN.0"
+    },
+    {
+        "songId": "DontNeverAround.HAMA",
+        "songKey": "Don't Never Around",
+        "songName": "Don't Never Around",
+        "difficulty": [
+            4.5,
+            11.7,
+            15.4
+        ],
+        "illustrator": "Arahosi",
+        "charter": [
+            "XMT小咩兔",
+            "XMT小咩兔",
+            "XMT小咩兔"
+        ],
+        "composer": "HAMA",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 87.77100372314453,
+        "previewTimeEnd": 110.11399841308594,
+        "soundIdBak": "DontNeverAround.HAMA.0"
+    },
+    {
+        "songId": "RESSiSTANCE.ぐるたみん",
+        "songKey": "RESSiSTANCE",
+        "songName": "RESSiSTANCE",
+        "difficulty": [
+            6.0,
+            10.6,
+            15.8
+        ],
+        "illustrator": "LINUS",
+        "charter": [
+            "其一 呼吸尚存的标志",
+            "其二 向前迈进的理由",
+            "其三 我所存在的证明"
+        ],
+        "composer": "ぐるたみん",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 52.68199920654297,
+        "previewTimeEnd": 81.95099639892578,
+        "soundIdBak": "RESSiSTANCE.ぐるたみん.0"
+    },
+    {
+        "songId": "Dreamland.z1onkyrrin",
+        "songKey": "Dreamland",
+        "songName": "Dreamland",
+        "difficulty": [
+            6.0,
+            9.8,
+            13.2
+        ],
+        "illustrator": "海产",
+        "charter": [
+            "Bear",
+            "Bear",
+            "XMT & 198"
+        ],
+        "composer": "z1on & kyrrin",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 113.5,
+        "previewTimeEnd": 128.5,
+        "soundIdBak": "Dreamland.z1onkyrrin.0"
+    },
+    {
+        "songId": "AnotherRound.JustinDai",
+        "songKey": "Another Round",
+        "songName": "Another Round",
+        "difficulty": [
+            3.0,
+            8.7,
+            13.3
+        ],
+        "illustrator": "艾是Abby",
+        "charter": [
+            "阿爽",
+            "Another Stage",
+            "TimiTini →\"X\"← 阿爽"
+        ],
+        "composer": "Justin Dai",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 46.64099884033203,
+        "previewTimeEnd": 63.74300003051758,
+        "soundIdBak": "AnotherRound.JustinDai.0"
+    },
+    {
+        "songId": "996.李化禹",
+        "songKey": "996",
+        "songName": "996",
+        "difficulty": [
+            4.0,
+            9.1,
+            14.6
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+            "RTH",
+            "Likey",
+            "Barbarianerman & NerSAN in the ICU"
+        ],
+        "composer": "李化禹",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 48.0,
+        "previewTimeEnd": 63.428001403808594,
+        "soundIdBak": "996.李化禹.0"
+    },
+    {
+        "songId": "FutureMind.RayNauticaRekuMochizuki",
+        "songKey": "Future Mind",
+        "songName": "Future Mind",
+        "difficulty": [
+            5.5,
+            11.7,
+            14.4
+        ],
+        "illustrator": "Keiby.comics",
+        "charter": [
+            "Barbarianerman",
+            "XMT小咩兔",
+            "Future BarbarXMT"
+        ],
+        "composer": "Ray Nautica & Reku Mochizuki",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 65.34700012207031,
+        "previewTimeEnd": 85.35099792480469,
+        "soundIdBak": "FutureMind.RayNauticaRekuMochizuki.0"
+    },
+    {
+        "songId": "Luminescent.Daison",
+        "songKey": "Luminescent",
+        "songName": "Luminescent",
+        "difficulty": [
+            5.5,
+            9.3,
+            14.5
+        ],
+        "illustrator": "鲸弑",
+        "charter": [
+            "Uvernight",
+            "Uvernight",
+            "百九十八"
+        ],
+        "composer": "Daison",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 97.44599914550781,
+        "previewTimeEnd": 112.76499938964844,
+        "soundIdBak": "Luminescent.Daison.0"
+    },
+    {
+        "songId": "FULiAUTOBUSTER.MYUKKE",
+        "songKey": "FULi AUTO BUSTER",
+        "songName": "FULi AUTO BUSTER",
+        "difficulty": [
+            5.0,
+            9.3,
+            14.7
+        ],
+        "illustrator": "cycats",
+        "charter": [
+            "M3d1uM & 百九十八",
+            "M3d1uM & 百九十八",
+            "百九十八 busting 阿爽"
+        ],
+        "composer": "MYUKKE.",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 79.45099639892578,
+        "previewTimeEnd": 102.62000274658203,
+        "soundIdBak": "FULiAUTOBUSTER.MYUKKE.0"
+    },
+    {
+        "songId": "IMustSayNo.TangJuan",
+        "songKey": "I Must Say No",
+        "songName": "I Must Say No",
+        "difficulty": [
+            2.5,
+            9.5,
+            13.5
+        ],
+        "illustrator": "cycats",
+        "charter": [
+            "Likey",
+            "JKy",
+            "Likey & 百九十八"
+        ],
+        "composer": "TangJuan",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 26.055999755859375,
+        "previewTimeEnd": 49.400001525878906,
+        "soundIdBak": "IMustSayNo.TangJuan.0"
+    },
+    {
+        "songId": "opia.rN",
+        "songKey": "opia",
+        "songName": "opia",
+        "difficulty": [
+            5.5,
+            11.6,
+            15.5
+        ],
+        "illustrator": "rN @ 湯元画伯",
+        "charter": [
+            "BlindForest",
+            "BlindForest 『Observing』",
+            "Jeitie & CorruptedEntity 『Hollow』"
+        ],
+        "composer": "rN",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 28.60099983215332,
+        "previewTimeEnd": 43.52299880981445,
+        "soundIdBak": "opia.rN.0"
+    },
+    {
+        "songId": "Apocalypse.アリスシャッハと魔法の楽団",
+        "songKey": "Apocalypse",
+        "songName": "Apocalypse",
+        "difficulty": [
+            4.0,
+            8.6,
+            13.5
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+            "R.",
+            "B.",
+            "Rikko & 198"
+        ],
+        "composer": "アリスシャッハと魔法の楽団",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 54.81800079345703,
+        "previewTimeEnd": 69.54499816894531,
+        "soundIdBak": "Apocalypse.アリスシャッハと魔法の楽団.0"
+    },
+    {
+        "songId": "Protoflicker.Silentroom",
+        "songKey": "Protoflicker",
+        "songName": "Protoflicker",
+        "difficulty": [
+            3.5,
+            10.6,
+            15.2
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+            "Barbarianerman & J.R",
+            "RTH",
+            "Gausbon"
+        ],
+        "composer": "Silentroom",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 96.03199768066406,
+        "previewTimeEnd": 118.29499816894531,
+        "soundIdBak": "Protoflicker.Silentroom.0"
+    },
+    {
+        "songId": "HorizonBlue.NothingButRequiemfeatAikapinChiyoko",
+        "songKey": "Horizon Blue",
+        "songName": "Horizon Blue",
+        "difficulty": [
+            6.5,
+            12.2,
+            15.5
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+            "Nothing But Uvernight",
+            "Nothing But Likey",
+            "Nothing But Ner & Pcat"
+        ],
+        "composer": "Nothing But Requiem feat. Aikapin & Chiyoko",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 41.0989990234375,
+        "previewTimeEnd": 56.0989990234375,
+        "soundIdBak": "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0"
+    },
+    {
+        "songId": "YouaretheMiserable.tpazolite",
+        "songKey": "You are the Miserable",
+        "songName": "You are the Miserable",
+        "difficulty": [
+            6.0,
+            11.7,
+            14.2,
+            15.6
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+            "M3d1uM",
+            "M3d1uM",
+            "We are the Miserable",
+            "Pat Brick Man Mr.C & Mr.B"
+        ],
+        "composer": "t+pazolite",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 117.7979965209961,
+        "previewTimeEnd": 131.04800415039062,
+        "soundIdBak": "YouaretheMiserable.tpazolite.0"
+    },
+    {
+        "songId": "Stasis.Maozon",
+        "songKey": "Stasis",
+        "songName": "Stasis",
+        "difficulty": [
+            5.0,
+            11.1,
+            15.3,
+            16.4
+        ],
+        "illustrator": "Lanota © Noxy Games Inc. ",
+        "charter": [
+            "空の希",
+            "空の希",
+            "ST AS is XMT",
+            "百九十八"
+        ],
+        "composer": "Maozon",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 42.66600036621094,
+        "previewTimeEnd": 65.33300018310547,
+        "soundIdBak": "Stasis.Maozon.0"
+    },
+    {
+        "songId": "いざ参ります.Uskefeat棗いつき",
+        "songKey": "いざ、参ります",
+        "songName": "いざ、参ります",
+        "difficulty": [
+            4.0,
+            9.6,
+            14.8
+        ],
+        "illustrator": "緑風マルト",
+        "charter": [
+            "Clutter & Barbarianerman",
+            "Clutter & Barbarianerman",
+            "小咩兔、参上"
+        ],
+        "composer": "U-ske feat. 棗いつき",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 38.297000885009766,
+        "previewTimeEnd": 49.7869987487793,
+        "soundIdBak": "いざ参ります.Uskefeat棗いつき.0"
+    },
+    {
+        "songId": "月下缭乱.月見静華vsLUNARiUM",
+        "songKey": "月下缭乱",
+        "songName": "月下缭乱",
+        "difficulty": [
+            5.0,
+            9.4,
+            14.8
+        ],
+        "illustrator": "TNiK",
+        "charter": [
+            "XMT小咩兔",
+            "XMT小咩兔",
+            "iv"
+        ],
+        "composer": "月見静華 vs. LUNARiUM",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 70.62799835205078,
+        "previewTimeEnd": 87.77100372314453,
+        "soundIdBak": "月下缭乱.月見静華vsLUNARiUM.0"
+    },
+    {
+        "songId": "OnAndOn.ETIAfeatJenga",
+        "songKey": "On And On!!",
+        "songName": "On And On!!",
+        "difficulty": [
+            5.0,
+            10.3,
+            14.9
+        ],
+        "illustrator": "わっふゑ",
+        "charter": [
+            "Rikko",
+            "Rikko",
+            "NerSAN feat. Takanashi Rikko"
+        ],
+        "composer": "ETIA. feat. Jenga",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 11.286999702453613,
+        "previewTimeEnd": 24.356000900268555,
+        "soundIdBak": "OnAndOn.ETIAfeatJenga.0"
+    },
+    {
+        "songId": "DataErr0r.Cosmograph",
+        "songKey": "DataErr0r",
+        "songName": "DataErr0r",
+        "difficulty": [
+            6.0,
+            11.6,
+            14.6
+        ],
+        "illustrator": "Photonskyto",
+        "charter": [
+            "[!!12:l<l<ο!!]",
+            "Rikko",
+            "TangScend -Err0rederci-"
+        ],
+        "composer": "Cosmograph",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 52.0,
+        "previewTimeEnd": 72.0,
+        "soundIdBak": "DataErr0r.Cosmograph.0"
+    },
+    {
+        "songId": "Shadow.SumaiLightvs姜米條",
+        "songKey": "Shadow",
+        "songName": "Shadow",
+        "difficulty": [
+            6.0,
+            10.3,
+            14.5,
+            15.9
+        ],
+        "illustrator": "御坂果子",
+        "charter": [
+            "晨",
+            "晨",
+            "Sillyp vs. 晨",
+            "J0(_)I2|\\|3y'5 3|\\||)"
+        ],
+        "composer": "姜米條&SumaiLight",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 105.0,
+        "previewTimeEnd": 120.0,
+        "soundIdBak": "Shadow.SumaiLightvs姜米條.0"
+    },
+    {
+        "songId": "心之所向.姜米條",
+        "songKey": "心之所向",
+        "songName": "心之所向",
+        "difficulty": [
+            4.5,
+            8.9,
+            13.6
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+            "波之所杂",
+            "波之所杂",
+            "倪之所爽"
+        ],
+        "composer": "姜米條",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 46.66299819946289,
+        "previewTimeEnd": 69.33300018310547,
+        "soundIdBak": "心之所向.姜米條.0"
+    },
+    {
+        "songId": "inferior.姜米條",
+        "songKey": "inferior",
+        "songName": "inferior",
+        "difficulty": [
+            7.0,
+            7.5,
+            14.6
+        ],
+        "illustrator": "群青kurara",
+        "charter": [
+            "Ner, the inferior",
+            "Ner, the inferior",
+            "JKy, the inferior"
+        ],
+        "composer": "姜米條",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 20.100000381469727,
+        "previewTimeEnd": 39.599998474121094,
+        "soundIdBak": "inferior.姜米條.0"
+    },
+    {
+        "songId": "csqn.Aoi",
+        "songKey": "c.s.q.n.",
+        "songName": "c.s.q.n.",
+        "difficulty": [
+            5.0,
+            12.5,
+            15.7
+        ],
+        "illustrator": "Ctymax vs. TNiK feat. 出前",
+        "charter": [
+            "b.b.n.m.",
+            "h.o.m.e.e.e.",
+            "s.t.p.g."
+        ],
+        "composer": "Aoi",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 88.44599914550781,
+        "previewTimeEnd": 106.20700073242188,
+        "soundIdBak": "csqn.Aoi.0"
+    },
+    {
+        "songId": "BraveNotes.TurquoiseDRIVENota",
+        "songKey": "Brave Notes",
+        "songName": "Brave Notes",
+        "difficulty": [
+            5.5,
+            11.4,
+            14.6
+        ],
+        "illustrator": "林语",
+        "charter": [
+            "Brave Eaimo",
+            "Brave Eaimo",
+            "Brave Eaimo"
+        ],
+        "composer": "Turquoise(DRIVE.+Nota)",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 45.0099983215332,
+        "previewTimeEnd": 60.180999755859375,
+        "soundIdBak": "BraveNotes.TurquoiseDRIVENota.0"
+    },
+    {
+        "songId": "盏茗.茶鸣拾贰律",
+        "songKey": "盏茗",
+        "songName": "盏茗",
+        "difficulty": [
+            2.0,
+            4.5,
+            13.3
+        ],
+        "illustrator": "茶鸣拾贰律",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "NerSAN sipping XMTea"
+        ],
+        "composer": "茶鸣拾贰律",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 65.9540023803711,
+        "previewTimeEnd": 82.44200134277344,
+        "soundIdBak": "盏茗.茶鸣拾贰律.0"
+    },
+    {
+        "songId": "青芽.茶鸣拾贰律",
+        "songKey": "青芽",
+        "songName": "青芽",
+        "difficulty": [
+            5.0,
+            10.8,
+            14.9
+        ],
+        "illustrator": "茶鸣拾贰律",
+        "charter": [
+            "生根发芽的小咩兔",
+            "逆流而上的小咩兔",
+            "Hook vs. _鉄"
+        ],
+        "composer": "茶鸣拾贰律",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 106.87000274658203,
+        "previewTimeEnd": 126.66600036621094,
+        "soundIdBak": "青芽.茶鸣拾贰律.0"
+    },
+    {
+        "songId": "EternalSnow.AbyssIdols",
+        "songKey": "Eternal Snow",
+        "songName": "Eternal Snow",
+        "difficulty": [
+            4.0,
+            8.8,
+            13.5
+        ],
+        "illustrator": "Sak",
+        "charter": [
+            "M3d1uM",
+            "M3d1uM",
+            "JKy"
+        ],
+        "composer": "Abyss Idols",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 81.4280014038086,
+        "previewTimeEnd": 98.57099914550781,
+        "soundIdBak": "EternalSnow.AbyssIdols.0"
+    },
+    {
+        "songId": "RainySeason.AbyssIdols",
+        "songKey": "Rainy Season",
+        "songName": "Rainy Season",
+        "difficulty": [
+            5.5,
+            10.7,
+            14.4
+        ],
+        "illustrator": "Robin",
+        "charter": [
+            "StupiGGy",
+            "StupiGGy",
+            "Raiky Season"
+        ],
+        "composer": "Abyss Idols",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 67.0,
+        "previewTimeEnd": 88.0,
+        "soundIdBak": "RainySeason.AbyssIdols.0"
+    },
+    {
+        "songId": "ElCondorPasaPhigrosEdit.PlasticFruits",
+        "songKey": "El Condor Pasa (Phigros Edit)",
+        "songName": "El Condor Pasa (Phigros Edit)",
+        "difficulty": [
+            6.0,
+            12.5,
+            15.4
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+            "TimiTini",
+            "TimiTini",
+            "XMT小咩兔"
+        ],
+        "composer": "Plastic Fruits",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 76.80000305175781,
+        "previewTimeEnd": 91.19999694824219,
+        "soundIdBak": "ElCondorPasaPhigrosEdit.PlasticFruits.0"
+    },
+    {
+        "songId": "BreakOver.Kforest",
+        "songKey": "Break Over",
+        "songName": "Break Over",
+        "difficulty": [
+            5.0,
+            11.8,
+            14.1,
+            14.9
+        ],
+        "illustrator": "圆规compasses",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "百九十八 vs. Barbarianerman",
+            "百九十八"
+        ],
+        "composer": "K-forest",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 83.3239974975586,
+        "previewTimeEnd": 103.3239974975586,
+        "soundIdBak": "BreakOver.Kforest.0"
+    },
+    {
+        "songId": "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦",
+        "songKey": "Believe Light (feat. 果丸哒呦)",
+        "songName": "Believe Light (feat. 果丸哒呦)",
+        "difficulty": [
+            2.5,
+            9.5,
+            14.5
+        ],
+        "illustrator": "圆规compasses",
+        "charter": [
+            "Believe Ctymax",
+            "Believe TimiTini",
+            "Believe Ctymax & TimiTini"
+        ],
+        "composer": "Scaler & Mestie & 果丸哒呦",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 44.15999984741211,
+        "previewTimeEnd": 59.15999984741211,
+        "soundIdBak": "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0"
+    },
+    {
+        "songId": "Pontdessouvenirs.VeetaCrushvsitsufeatitsu",
+        "songKey": "Pont des souvenirs",
+        "songName": "Pont des souvenirs",
+        "difficulty": [
+            5.5,
+            10.7,
+            15.1
+        ],
+        "illustrator": "林语",
+        "charter": [
+            "JKy",
+            "JKy",
+            "晨"
+        ],
+        "composer": "VeetaCrush vs. [itsu(feat.itsu)]",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 41.0,
+        "previewTimeEnd": 61.0,
+        "soundIdBak": "Pontdessouvenirs.VeetaCrushvsitsufeatitsu.0"
+    },
+    {
+        "songId": "青丘.BLACK0",
+        "songKey": "青丘",
+        "songName": "青丘",
+        "difficulty": [
+            5.5,
+            10.5,
+            15.3
+        ],
+        "illustrator": "BLACK 0",
+        "charter": [
+            "Ctymax",
+            "Su1fuR",
+            "KillJoy"
+        ],
+        "composer": "BLACK 0",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 43.16600036621094,
+        "previewTimeEnd": 57.83300018310547,
+        "soundIdBak": "青丘.BLACK0.0"
+    },
+    {
+        "songId": "瓷岁.茶鸣拾贰律",
+        "songKey": "瓷岁",
+        "songName": "瓷岁",
+        "difficulty": [
+            3.5,
+            6.5,
+            7.0
+        ],
+        "illustrator": "茶鸣拾贰律",
+        "charter": [
+            "『流』年大顺",
+            "『流』年大顺",
+            "『兔』年大吉"
+        ],
+        "composer": "茶鸣拾贰律",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 92.37999725341797,
+        "previewTimeEnd": 108.57099914550781,
+        "soundIdBak": "瓷岁.茶鸣拾贰律.0"
+    },
+    {
+        "songId": "Feast远东之宴.茶鸣拾贰律",
+        "songKey": "Feast远东之宴",
+        "songName": "Feast远东之宴",
+        "difficulty": [
+            6.5,
+            11.9,
+            15.3
+        ],
+        "illustrator": "茶鸣拾贰律",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "Gino"
+        ],
+        "composer": "茶鸣拾贰律",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 37.5,
+        "previewTimeEnd": 67.5,
+        "soundIdBak": "Feast远东之宴.茶鸣拾贰律.0"
+    },
+    {
+        "songId": "インフェルノシティ.Ponchifeatはぁち",
+        "songKey": "インフェルノシティ",
+        "songName": "インフェルノシティ",
+        "difficulty": [
+            5.0,
+            11.2,
+            15.5
+        ],
+        "illustrator": "LESYEF & 藍瀬 まなみ",
+        "charter": [
+            "Su1fuR",
+            "Alloces feat. Uvernight",
+            "Alloces"
+        ],
+        "composer": "Ponchi♪ feat. はぁち",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 63.62699890136719,
+        "previewTimeEnd": 83.44100189208984,
+        "soundIdBak": "インフェルノシティ.Ponchifeatはぁち.0"
+    },
+    {
+        "songId": "Upshift.Iriss-Frantzz",
+        "songKey": "Upshift",
+        "songName": "Upshift",
+        "difficulty": [
+            5.5,
+            10.8,
+            15.4
+        ],
+        "illustrator": "Iriss=Frantzz=s-don",
+        "charter": [
+            "Lumiere",
+            "CorruptedEntity & 野从",
+            "_鉄"
+        ],
+        "composer": "Iriss-Frantzz",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 100.6449966430664,
+        "previewTimeEnd": 130.64500427246094,
+        "soundIdBak": "Upshift.Iriss-Frantzz.0"
+    },
+    {
+        "songId": "PoisonANDORAffection.LeaF",
+        "songKey": "Poison AND÷OR Affection",
+        "songName": "Poison AND÷OR Affection",
+        "difficulty": [
+            3.5,
+            9.6,
+            15.5
+        ],
+        "illustrator": "笔记RE/海产",
+        "charter": [
+            "R/kko",
+            "&ikko",
+            "1÷98"
+        ],
+        "composer": "LeaF",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 20.5,
+        "previewTimeEnd": 40.5,
+        "soundIdBak": "PoisonANDORAffection.LeaF.0"
+    },
+    {
+        "songId": "Random.SobremSilentroom",
+        "songKey": "Random",
+        "songName": "Random",
+        "difficulty": [
+            6.0,
+            12.2,
+            14.7
+        ],
+        "illustrator": "Harkiadel",
+        "charter": [
+            "Barbarianerman",
+            "IMD_6",
+            "_鉄"
+        ],
+        "composer": "Sobrem × Silentroom",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 78.0,
+        "previewTimeEnd": 108.0,
+        "soundIdBak": "Random.SobremSilentroom.0"
+    },
+    {
+        "songId": "零號車輛.seatrus",
+        "songKey": "零號車輛",
+        "songName": "零號車輛",
+        "difficulty": [
+            7.0,
+            12.3,
+            15.8
+        ],
+        "illustrator": "2AI4wU4",
+        "charter": [
+            "零號宇夜",
+            "壹號阿爽",
+            "Pcat【零】198"
+        ],
+        "composer": "seatrus",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 73.0,
+        "previewTimeEnd": 93.0,
+        "soundIdBak": "零號車輛.seatrus.0"
+    },
+    {
+        "songId": "NowIsTheTimeDoIt.RoyMikelate",
+        "songKey": "Now Is The Time, Do It",
+        "songName": "Now Is The Time, Do It",
+        "difficulty": [
+            4.5,
+            10.7,
+            14.3
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+            "M3d1uM",
+            "M3d1uM",
+            "Pat Brick Man Mr.N feat. Ner of Time"
+        ],
+        "composer": "Roy Mikelate",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 86.58200073242188,
+        "previewTimeEnd": 103.10099792480469,
+        "soundIdBak": "NowIsTheTimeDoIt.RoyMikelate.0"
+    },
+    {
+        "songId": "Bougainvillea.Jade",
+        "songKey": "Bougainvillea",
+        "songName": "Bougainvillea",
+        "difficulty": [
+            4.0,
+            8.3,
+            13.2
+        ],
+        "illustrator": "TNiK",
+        "charter": [
+            "Barbarvillea",
+            "Barbarvillea",
+            "Barbarvillea"
+        ],
+        "composer": "Jade",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 48.0,
+        "previewTimeEnd": 64.0,
+        "soundIdBak": "Bougainvillea.Jade.0"
+    },
+    {
+        "songId": "神話.PicaM2U",
+        "songKey": "神話",
+        "songName": "神話",
+        "difficulty": [
+            4.0,
+            8.9,
+            13.6
+        ],
+        "illustrator": "mology (青鸟&V17AMax Modified)",
+        "charter": [
+            "雑",
+            "波",
+            "P & U"
+        ],
+        "composer": "Pica & M2U",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 45.69200134277344,
+        "previewTimeEnd": 60.92300033569336,
+        "soundIdBak": "神話.PicaM2U.0"
+    },
+    {
+        "songId": "Elúltimobaile.Θ",
+        "songKey": "El último baile",
+        "songName": "El último baile",
+        "difficulty": [
+            5.0,
+            10.4,
+            14.3
+        ],
+        "illustrator": "mology (青鸟&V17AMax Modified)",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "百九十八 feat. Likey"
+        ],
+        "composer": "Θ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 41.513999938964844,
+        "previewTimeEnd": 61.513999938964844,
+        "soundIdBak": "Elúltimobaile.Θ.0"
+    },
+    {
+        "songId": "Trojan.litmus",
+        "songKey": "Trojan",
+        "songName": "Trojan",
+        "difficulty": [
+            4.5,
+            10.8,
+            14.8
+        ],
+        "illustrator": "Lapelristar (青鸟&V17AMax Modified)",
+        "charter": [
+            "M3d1uM",
+            "M3d1uM",
+            "Warning: XMT is infected by Trojan!!"
+        ],
+        "composer": "litmus*",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 87.18699645996094,
+        "previewTimeEnd": 102.65599822998047,
+        "soundIdBak": "Trojan.litmus.0"
+    },
+    {
+        "songId": "TemporalShifting.LureRabbitVC",
+        "songKey": "Temporal Shifting",
+        "songName": "Temporal Shifting",
+        "difficulty": [
+            4.0,
+            11.5,
+            15.2
+        ],
+        "illustrator": "mology (青鸟&V17AMax Modified)",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "Gausbon vs. 阿爽"
+        ],
+        "composer": "Lure Rabbit & V!C",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 99.5,
+        "previewTimeEnd": 113.03800201416016,
+        "soundIdBak": "TemporalShifting.LureRabbitVC.0"
+    },
+    {
+        "songId": "Adastraperaspera.RabbitHouse",
+        "songKey": "Ad astra per aspera",
+        "songName": "Ad astra per aspera",
+        "difficulty": [
+            6.0,
+            12.1,
+            15.8
+        ],
+        "illustrator": "Lyrebird Ferdinant (青鸟&V17AMax Modified)",
+        "charter": [
+            "Barbarianerman",
+            "XMT小咩兔",
+            "Hara小兔组"
+        ],
+        "composer": "Rabbit House",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 60.30400085449219,
+        "previewTimeEnd": 70.65899658203125,
+        "soundIdBak": "Adastraperaspera.RabbitHouse.0"
+    },
+    {
+        "songId": "Ajourneytothemoonlight.Yesod",
+        "songKey": "A journey to the moonlight",
+        "songName": "A journey to the moonlight",
+        "difficulty": [
+            4.5,
+            10.7,
+            14.5
+        ],
+        "illustrator": "汉堡",
+        "charter": [
+            "Rikko from「PHIGROS MOON」",
+            "Rikko from「PHIGROS MOON」",
+            "Ner & 198 from 「PHIGROS MOON」"
+        ],
+        "composer": "Yesod",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 55.895999908447266,
+        "previewTimeEnd": 70.89600372314453,
+        "soundIdBak": "Ajourneytothemoonlight.Yesod.0"
+    },
+    {
+        "songId": "RainyHeart.BelieverInYou阿卡姆巫师",
+        "songKey": "Rainy Heart",
+        "songName": "Rainy Heart",
+        "difficulty": [
+            4.0,
+            10.2,
+            12.9
+        ],
+        "illustrator": "Sodhelium",
+        "charter": [
+            "Su1fuR",
+            "Barbarianerman",
+            "HaraKuma"
+        ],
+        "composer": "BelieverInYou(阿卡姆巫师)",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 29.0,
+        "previewTimeEnd": 44.0,
+        "soundIdBak": "RainyHeart.BelieverInYou阿卡姆巫师.0"
+    },
+    {
+        "songId": "Realms.HinkikAHimitsu",
+        "songKey": "Realms",
+        "songName": "Realms",
+        "difficulty": [
+            4.5,
+            10.8,
+            14.1
+        ],
+        "illustrator": "圆规compasses",
+        "charter": [
+            "Barbarianerman",
+            "Barbarianerman",
+            "NerSAN"
+        ],
+        "composer": "Hinkik & A Himitsu",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 47.06800079345703,
+        "previewTimeEnd": 62.06800079345703,
+        "soundIdBak": "Realms.HinkikAHimitsu.0"
+    },
+    {
+        "songId": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋",
+        "songKey": "ぱぴぷぴぷぴぱ",
+        "songName": "ぱぴぷぴぷぴぱ",
+        "difficulty": [
+            5.0,
+            12.3,
+            15.5
+        ],
+        "illustrator": "上倉エク",
+        "charter": [
+            "ParParianerman",
+            "ParParianerman",
+            "さるふるふるさ"
+        ],
+        "composer": "ころねぽち With 立秋",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 92.5999984741211,
+        "previewTimeEnd": 112.5999984741211,
+        "soundIdBak": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0"
+    },
+    {
+        "songId": "TriumphRegret.typeMARS",
+        "songKey": "Triumph & Regret",
+        "songName": "Triumph & Regret",
+        "difficulty": [
+            5.0,
+            9.4,
+            14.7
+        ],
+        "illustrator": "何呵",
+        "charter": [
+            "Barbarianerman & Regret",
+            "Barbarianerman & Regret",
+            "TimiTini & HaraKuma"
+        ],
+        "composer": "typeMARS",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 76.79299926757812,
+        "previewTimeEnd": 98.96199798583984,
+        "soundIdBak": "TriumphRegret.typeMARS.0"
+    },
+    {
+        "songId": "SATELLITE.かめりあ",
+        "songKey": "S.A.T.E.L.L.I.T.E.",
+        "songName": "S.A.T.E.L.L.I.T.E.",
+        "difficulty": [
+            5.0,
+            9.9,
+            14.6,
+            15.8
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+            "XMT wishing upon a satellite",
+            "B.A.R.B.A.R.I.A.N.E.R.M.A.N.",
+            "L.I.K.E.Y.",
+            "N.E.R.1.9.8."
+        ],
+        "composer": "かめりあ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 81.19999694824219,
+        "previewTimeEnd": 101.19999694824219,
+        "soundIdBak": "SATELLITE.かめりあ.0"
+    },
+    {
+        "songId": "DancewithSilence.かめりあ",
+        "songKey": "Dance with Silence",
+        "songName": "Dance with Silence",
+        "difficulty": [
+            7.0,
+            10.9,
+            15.2
+        ],
+        "illustrator": "林语",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "晨_鉄"
+        ],
+        "composer": "かめりあ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 114.4000015258789,
+        "previewTimeEnd": 129.39999389648438,
+        "soundIdBak": "DancewithSilence.かめりあ.0"
+    },
+    {
+        "songId": "LabyrinthinKowloonWalledWorld.かめりあ",
+        "songKey": "Labyrinth in Kowloon: Walled World",
+        "songName": "Labyrinth in Kowloon: Walled World",
+        "difficulty": [
+            6.0,
+            11.6,
+            15.4
+        ],
+        "illustrator": "鲸弑",
+        "charter": [
+            "VikingNexus",
+            "VikingNexus",
+            "198 in Kowloon"
+        ],
+        "composer": "かめりあ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 41.0,
+        "previewTimeEnd": 61.0,
+        "soundIdBak": "LabyrinthinKowloonWalledWorld.かめりあ.0"
+    },
+    {
+        "songId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ",
+        "songKey": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+        "songName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+        "difficulty": [
+            5.5,
+            10.6,
+            15.6
+        ],
+        "illustrator": "山崎团",
+        "charter": [
+            "Clutter",
+            "Clutter",
+            "Gausbon vs. XMT小咩兔"
+        ],
+        "composer": "かめりあ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 112.0,
+        "previewTimeEnd": 123.63600158691406,
+        "soundIdBak": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0"
+    },
+    {
+        "songId": "ERABYECONNEC10N.かめりあ",
+        "songKey": "+ERABY+E CONNEC+10N",
+        "songName": "+ERABY+E CONNEC+10N",
+        "difficulty": [
+            5.5,
+            11.5,
+            15.9,
+            16.5
+        ],
+        "illustrator": "猫箱Catbox feat. 祈莲",
+        "charter": [
+            "4B314C3042592B45",
+            "4D45474142592B45",
+            "4731474142592B45",
+            "2B45524142592B45"
+        ],
+        "composer": "かめりあ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 75.12999725341797,
+        "previewTimeEnd": 97.82599639892578,
+        "soundIdBak": "ERABYECONNEC10N.かめりあ.0"
+    },
+    {
+        "songId": "DiamondEyes.SYNTHETIC",
+        "songKey": "Diamond Eyes",
+        "songName": "Diamond Eyes",
+        "difficulty": [
+            4.0,
+            7.5,
+            13.4
+        ],
+        "illustrator": "彗星 feat. 祈莲",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "Clutter"
+        ],
+        "composer": "SYNTHETIC",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 97.28500366210938,
+        "previewTimeEnd": 112.71399688720703,
+        "soundIdBak": "DiamondEyes.SYNTHETIC.0"
+    },
+    {
+        "songId": "Bitterblossom.imvi",
+        "songKey": "Bitterblossom",
+        "songName": "Bitterblossom",
+        "difficulty": [
+            3.0,
+            9.6,
+            13.5
+        ],
+        "illustrator": "鲸弑",
+        "charter": [
+            "Su1fuR",
+            "Barbarianerman",
+            "百九十八"
+        ],
+        "composer": "imvi",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 21.33300018310547,
+        "previewTimeEnd": 36.33300018310547,
+        "soundIdBak": "Bitterblossom.imvi.0"
+    },
+    {
+        "songId": "SilenceisGoldenSpeechisGolden.NIWASHI",
+        "songKey": "Silence is Golden, Speech is Golden",
+        "songName": "Silence is Golden, Speech is Golden",
+        "difficulty": [
+            5.0,
+            9.7,
+            15.5
+        ],
+        "illustrator": "Jerry & OsuMe65",
+        "charter": [
+            "Clutter is coppery，Tumult is coppery",
+            "XMT is silvery, 小咩兔 is silvery",
+            "Hara is golden, Kuma is golden"
+        ],
+        "composer": "NIWASHI",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 68.98600006103516,
+        "previewTimeEnd": 92.2030029296875,
+        "soundIdBak": "SilenceisGoldenSpeechisGolden.NIWASHI.0"
+    },
+    {
+        "songId": "FracturedAngel.DJRaisei",
+        "songKey": "Fractured Angel",
+        "songName": "Fractured Angel",
+        "difficulty": [
+            4.0,
+            10.9,
+            15.9
+        ],
+        "illustrator": "OsuMe65",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "逆天使の悪魔 【Likey】"
+        ],
+        "composer": "DJ Raisei",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 67.0,
+        "previewTimeEnd": 81.0,
+        "soundIdBak": "FracturedAngel.DJRaisei.0"
+    },
+    {
+        "songId": "JourneywithYou.Iris",
+        "songKey": "Journey with You",
+        "songName": "Journey with You",
+        "difficulty": [
+            5.5,
+            10.1,
+            13.8
+        ],
+        "illustrator": "BTKCyber (青鸟 modified)",
+        "charter": [
+            "jouR.ney with hold",
+            "jouR.ney to the end【COVERED】",
+            "Su1fuR -All about YOU & ME-"
+        ],
+        "composer": "Iris",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 40.5,
+        "previewTimeEnd": 65.5,
+        "soundIdBak": "JourneywithYou.Iris.0"
+    },
+    {
+        "songId": "SecretIllumination.Yooh",
+        "songKey": "Secret Illumination",
+        "songName": "Secret Illumination",
+        "difficulty": [
+            5.0,
+            10.5,
+            14.6
+        ],
+        "illustrator": "Juice Black (青鸟 modified)",
+        "charter": [
+            "Likey ",
+            "迟戈 vs. Likey",
+            "NerSAN"
+        ],
+        "composer": "Yooh",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 96.0,
+        "previewTimeEnd": 109.5,
+        "soundIdBak": "SecretIllumination.Yooh.0"
+    },
+    {
+        "songId": "InvertedWorld.ARForest",
+        "songKey": "Inverted World",
+        "songName": "Inverted World",
+        "difficulty": [
+            5.0,
+            11.2,
+            15.4
+        ],
+        "illustrator": "Mechari (青鸟 modified)",
+        "charter": [
+            "Clutter",
+            "ɹǝʇʇnlƆ",
+            "ƃuɐnɥs∀ .sʌ uoqsnɐ⅁"
+        ],
+        "composer": "ARForest",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 84.0270004272461,
+        "previewTimeEnd": 102.69300079345703,
+        "soundIdBak": "InvertedWorld.ARForest.0"
+    },
+    {
+        "songId": "月詠に鳴る.Feryquitousfeat藍月なくる",
+        "songKey": "月詠に鳴る",
+        "songName": "月詠に鳴る",
+        "difficulty": [
+            6.0,
+            11.1,
+            14.7,
+            15.5
+        ],
+        "illustrator": "SEGA (V17AMax modified)",
+        "charter": [
+            "IUIsauce",
+            "Salt",
+            "Myna feat.Sleepyhead",
+            "StupiGGy"
+        ],
+        "composer": "Feryquitous feat.藍月なくる",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 77.33300018310547,
+        "previewTimeEnd": 102.66600036621094,
+        "soundIdBak": "月詠に鳴る.Feryquitousfeat藍月なくる.0"
+    },
+    {
+        "songId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR",
+        "songKey": "TECHNOPOLIS 2085",
+        "songName": "TECHNOPOLIS 2085",
+        "difficulty": [
+            5.0,
+            10.2,
+            14.4,
+            15.7
+        ],
+        "illustrator": "SEGA (V17AMax modified)",
+        "charter": [
+            "dancing\"L\"ine 2085",
+            "迟戈 vs. Likey",
+            "CTYMAX ????",
+            "TECHNOXMT vs. LATENCYPOLIS"
+        ],
+        "composer": "PRASTIK DANCEFLOOR",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 103.87999725341797,
+        "previewTimeEnd": 121.79100036621094,
+        "soundIdBak": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0"
+    },
+    {
+        "songId": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音",
+        "songKey": "祈 -我ら神祖と共に歩む者なり-",
+        "songName": "祈 -我ら神祖と共に歩む者なり-",
+        "difficulty": [
+            7.5,
+            13.2,
+            15.9,
+            16.5
+        ],
+        "illustrator": "SEGA (V17AMax modified)",
+        "charter": [
+            "Su1fuRikko \"SouRce of the metaveRse\"",
+            "Su1fuRikko × rN \"judgemeNt fRom the cataStRophy\"",
+            "兔咩小 VS 咩小兔 VS 小兔咩 VS 咩兔小 VS 兔小咩",
+            "フィグロス譜面チーム \"Rikko feat. Ner\" -Pray for \"PHI\"-"
+        ],
+        "composer": "光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 110.95800018310547,
+        "previewTimeEnd": 128.218994140625,
+        "soundIdBak": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0"
+    },
+    {
+        "songId": "bye.DingerBox",
+        "songKey": "bye",
+        "songName": "bye",
+        "difficulty": [
+            4.0,
+            9.1,
+            14.9
+        ],
+        "illustrator": "海产",
+        "charter": [
+            "Likey",
+            "Likey",
+            "Ner ~ See you next time ~"
+        ],
+        "composer": "DingerBox",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 109.5,
+        "previewTimeEnd": 127.5,
+        "soundIdBak": "bye.DingerBox.0"
+    },
+    {
+        "songId": "聖夜讃歌.A39沙包P",
+        "songKey": "聖夜讃歌",
+        "songName": "聖夜讃歌",
+        "difficulty": [
+            4.0,
+            10.1,
+            15.3
+        ],
+        "illustrator": "绀屋",
+        "charter": [
+            "爽夜讃歌",
+            "爽夜讃歌",
+            "NerSANTA & Gausbell"
+        ],
+        "composer": "A-39/沙包P",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 148.8000030517578,
+        "previewTimeEnd": 171.42799377441406,
+        "soundIdBak": "聖夜讃歌.A39沙包P.0"
+    },
+    {
+        "songId": "ストレイソウルアラウンド.みーに",
+        "songKey": "ストレイソウル・アラウンド",
+        "songName": "ストレイソウル・アラウンド",
+        "difficulty": [
+            5.0,
+            10.4,
+            14.5
+        ],
+        "illustrator": "伊恩 (青鸟 modified)",
+        "charter": [
+            "JKy as \"Stray Cat\"",
+            "Stray Cat Around",
+            "クラッタ・アナザー・ラウンド"
+        ],
+        "composer": "みーに",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 22.399999618530273,
+        "previewTimeEnd": 38.400001525878906,
+        "soundIdBak": "ストレイソウルアラウンド.みーに.0"
+    },
+    {
+        "songId": "ManifoldHypothesis.cybermisofeattigerlily",
+        "songKey": "Manifold Hypothesis",
+        "songName": "Manifold Hypothesis",
+        "difficulty": [
+            4.0,
+            9.9,
+            14.7
+        ],
+        "illustrator": "阿清 (青鸟 modified)",
+        "charter": [
+            "Likey",
+            "Likey",
+            "Gausbon feat. 迟戈&野从"
+        ],
+        "composer": "cybermiso feat. tigerlily",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 21.0,
+        "previewTimeEnd": 34.0,
+        "soundIdBak": "ManifoldHypothesis.cybermisofeattigerlily.0"
+    },
+    {
+        "songId": "KMoeVIP.ZxNX",
+        "songKey": "K.Moe (VIP)",
+        "songName": "K.Moe (VIP)",
+        "difficulty": [
+            3.0,
+            8.4,
+            15.7
+        ],
+        "illustrator": "BTKCyber (青鸟 modified)",
+        "charter": [
+            "R:kko (IMD)",
+            "R:kko (IMD)",
+            "C.Max (PBM)"
+        ],
+        "composer": "ZxNX",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 73.0,
+        "previewTimeEnd": 88.0,
+        "soundIdBak": "KMoeVIP.ZxNX.0"
+    },
+    {
+        "songId": "GVNGlitterVomitusandNeon.SaltySaltUnfold33",
+        "songKey": "G.V.N. (Glitter,Vomitus and Neon)",
+        "songName": "G.V.N. (Glitter,Vomitus and Neon)",
+        "difficulty": [
+            5.0,
+            9.5,
+            15.6
+        ],
+        "illustrator": "祈莲",
+        "charter": [
+            "B.B.M.",
+            "B.B.M.",
+            "A.S.H."
+        ],
+        "composer": "Salty Salt & Unfold33",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 100.80699920654297,
+        "previewTimeEnd": 115.7239990234375,
+        "soundIdBak": "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0"
+    },
+    {
+        "songId": "CrushBETA.shadow_bling",
+        "songKey": "Crush BETA",
+        "songName": "Crush BETA",
+        "difficulty": [
+            4.0,
+            11.5,
+            15.1
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+            "Clutter BETA",
+            "Crush βETA",
+            "Timi今天吃神马"
+        ],
+        "composer": "shadow_bling",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 47.8489990234375,
+        "previewTimeEnd": 70.7760009765625,
+        "soundIdBak": "CrushBETA.shadow_bling.0"
+    },
+    {
+        "songId": "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow",
+        "songKey": "Broken Sky",
+        "songName": "Broken Sky",
+        "difficulty": [
+            4.0,
+            8.6,
+            13.2
+        ],
+        "illustrator": "午苔veeee~",
+        "charter": [
+            "Clutter",
+            "Clutter",
+            "Su1fuR"
+        ],
+        "composer": "Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 46.0,
+        "previewTimeEnd": 61.5,
+        "soundIdBak": "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0"
+    },
+    {
+        "songId": "BRAINHACKER.SOMON",
+        "songKey": "BRAIN HACKER",
+        "songName": "BRAIN HACKER",
+        "difficulty": [
+            4.5,
+            9.5,
+            14.7
+        ],
+        "illustrator": "SOMON",
+        "charter": [
+            "BLACK CTYMAX",
+            "COLORFUL CTYMAX",
+            "COLORFUL BLACK GAUSBON"
+        ],
+        "composer": "SOMON",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 64.80000305175781,
+        "previewTimeEnd": 98.69999694824219,
+        "soundIdBak": "BRAINHACKER.SOMON.0"
+    },
+    {
+        "songId": "Xenolith.Tatsh",
+        "songKey": "Xenolith",
+        "songName": "Xenolith",
+        "difficulty": [
+            5.0,
+            8.5,
+            14.6
+        ],
+        "illustrator": "2AI4wU4",
+        "charter": [
+            "RXhuang",
+            "RXhuang",
+            "Xlutter guided by three Oaths"
+        ],
+        "composer": "Tatsh",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 40.23500061035156,
+        "previewTimeEnd": 57.17599868774414,
+        "soundIdBak": "Xenolith.Tatsh.0"
+    },
+    {
+        "songId": "ArtificialExistence.JunKuroda",
+        "songKey": "Artificial Existence",
+        "songName": "Artificial Existence",
+        "difficulty": [
+            4.0,
+            10.2,
+            14.7
+        ],
+        "illustrator": "2AI4wU4",
+        "charter": [
+            "Salt",
+            "Salt",
+            "Salt & _鉄 inspired by 存在証明 [X]"
+        ],
+        "composer": "Jun Kuroda",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 80.41999816894531,
+        "previewTimeEnd": 110.41999816894531,
+        "soundIdBak": "ArtificialExistence.JunKuroda.0"
+    },
+    {
+        "songId": "IndelibleScar.Noah",
+        "songKey": "Indelible Scar",
+        "songName": "Indelible Scar",
+        "difficulty": [
+            7.5,
+            11.7,
+            15.3,
+            16.1
+        ],
+        "illustrator": "兜",
+        "charter": [
+            "Clutter & Barbarianerman",
+            "Salt & Barbarianerman",
+            "Likey affected by Ancestral Xhronicle",
+            "上班睡大觉_Sleepyhead"
+        ],
+        "composer": "Noah",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 92.55599975585938,
+        "previewTimeEnd": 108.96800231933594,
+        "soundIdBak": "IndelibleScar.Noah.0"
+    },
+    {
+        "songId": "Antithese.Blacklolita",
+        "songKey": "Antithese",
+        "songName": "Antithese",
+        "difficulty": [
+            5.5,
+            11.8,
+            15.2,
+            15.9
+        ],
+        "illustrator": "釜飯轟々丸 + jht (Design: 祈莲)",
+        "charter": [
+            "SeveredEntity (BlindForest vs. rN) feat. Δ",
+            "Δ (M3d1uM vs. Salt)",
+            "StupiGGy -The Origin-",
+            "弧光"
+        ],
+        "composer": "Blacklolita",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 35.93000030517578,
+        "previewTimeEnd": 53.32500076293945,
+        "soundIdBak": "Antithese.Blacklolita.0"
+    },
+    {
+        "songId": "PRAGMATISMRESURRECTION.Laur",
+        "songKey": "PRAGMATISM -RESURRECTION-",
+        "songName": "PRAGMATISM -RESURRECTION-",
+        "difficulty": [
+            7.5,
+            12.9,
+            15.6,
+            16.3
+        ],
+        "illustrator": "シエラ (Design: 祈莲)",
+        "charter": [
+            "完璧 [WARNING: DRAG OVERLOAD]",
+            "完璧 × 北星",
+            "-NerSAN & Su1fuR-",
+            "THE LAST 198"
+        ],
+        "composer": "Laur",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 117.62000274658203,
+        "previewTimeEnd": 137.6199951171875,
+        "soundIdBak": "PRAGMATISMRESURRECTION.Laur.0"
+    },
+    {
+        "songId": "ShineAfter.ADeanJocularACE",
+        "songKey": "Shine After",
+        "songName": "Shine After",
+        "difficulty": [
+            4.0,
+            9.9,
+            14.6
+        ],
+        "illustrator": "海里狄七 feat. 存艺",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "Salt & Uvernight"
+        ],
+        "composer": "ADean & JocularACE",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 120.33999633789062,
+        "previewTimeEnd": 135.33999633789062,
+        "soundIdBak": "ShineAfter.ADeanJocularACE.0"
+    },
+    {
+        "songId": "Bloom.targ麻团qwq",
+        "songKey": "Bloom",
+        "songName": "Bloom",
+        "difficulty": [
+            3.5,
+            11.2,
+            14.9
+        ],
+        "illustrator": "注射",
+        "charter": [
+            "Salt & Barbarianerman",
+            "Salt & Barbarianerman",
+            "SPΔDE & 倪尔qwq"
+        ],
+        "composer": "targ & 麻团qwq",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 66.4000015258789,
+        "previewTimeEnd": 81.5999984741211,
+        "soundIdBak": "Bloom.targ麻团qwq.0"
+    },
+    {
+        "songId": "幽世桔梗.Capchiifeatまるもこ",
+        "songKey": "幽世桔梗",
+        "songName": "幽世桔梗",
+        "difficulty": [
+            3.0,
+            10.1,
+            14.8
+        ],
+        "illustrator": "瀬名",
+        "charter": [
+            "RipHall vs. Likey",
+            "RipHall vs. Likey",
+            "Su1fuR、快斬！"
+        ],
+        "composer": "Capchii feat. まるもこ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 13.1899995803833,
+        "previewTimeEnd": 34.930999755859375,
+        "soundIdBak": "幽世桔梗.Capchiifeatまるもこ.0"
+    },
+    {
+        "songId": "千紫万紅.r0yvsWABI",
+        "songKey": "千紫万紅",
+        "songName": "千紫万紅",
+        "difficulty": [
+            4.5,
+            12.1,
+            15.6
+        ],
+        "illustrator": "中本ひょうり",
+        "charter": [
+            "Rikko",
+            "実戦 with Rikko",
+            "Salt & Barbarianerman"
+        ],
+        "composer": "r0y vs. WABI",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 105.47000122070312,
+        "previewTimeEnd": 124.47000122070312,
+        "soundIdBak": "千紫万紅.r0yvsWABI.0"
+    },
+    {
+        "songId": "明鏡烈火.MUEvsRekuMochizuki",
+        "songKey": "明鏡烈火",
+        "songName": "明鏡烈火",
+        "difficulty": [
+            6.5,
+            11.3,
+            15.8
+        ],
+        "illustrator": "中本ひょうり",
+        "charter": [
+            "COC  feat. Su1fuR",
+            "COC  feat. Su1fuR",
+            "Arenn Salty feat. LDA"
+        ],
+        "composer": "M-UE vs. Reku Mochizuki",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 99.74400329589844,
+        "previewTimeEnd": 118.74400329589844,
+        "soundIdBak": "明鏡烈火.MUEvsRekuMochizuki.0"
+    },
+    {
+        "songId": "今天不是明天.PIKASONICfeat兰音Reine",
+        "songKey": "今天不是明天",
+        "songName": "今天不是明天",
+        "difficulty": [
+            3.0,
+            8.5,
+            13.5
+        ],
+        "illustrator": "KiTA & 一击即溃",
+        "charter": [
+            "扫佛不是嫂夫",
+            "扫佛不是嫂夫",
+            "杂波不是杂啵，野从不是野丛"
+        ],
+        "composer": "PIKASONIC feat. 兰音Reine",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 45.119998931884766,
+        "previewTimeEnd": 62.400001525878906,
+        "soundIdBak": "今天不是明天.PIKASONICfeat兰音Reine.0"
+    },
+    {
+        "songId": "Cuvism.Fl00tvsHalv",
+        "songKey": "Cuvism³",
+        "songName": "Cuvism³",
+        "difficulty": [
+            3.5,
+            12.1,
+            13.9,
+            16.4
+        ],
+        "illustrator": "sikkari",
+        "charter": [
+            "Rikko",
+            "Rikko³ [Normal]",
+            "Rikko",
+            "JKy vs StrayCat"
+        ],
+        "composer": "Fl00t vs Halv",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 108.86499786376953,
+        "previewTimeEnd": 122.4739990234375,
+        "soundIdBak": "Cuvism.Fl00tvsHalv.0"
+    },
+    {
+        "songId": "iLArtifact.Link0",
+        "songKey": "iL-Artifact",
+        "songName": "iL-Artifact",
+        "difficulty": [
+            5.5,
+            10.5,
+            15.5
+        ],
+        "illustrator": "Fl00t",
+        "charter": [
+            "IUIsauce",
+            "IUIsauce",
+            "XMT小咩兔 vs. 上班睡大觉_Sleepyhead"
+        ],
+        "composer": "Link''0",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 73.69499969482422,
+        "previewTimeEnd": 95.21700286865234,
+        "soundIdBak": "iLArtifact.Link0.0"
+    },
+    {
+        "songId": "atruthseekerCommunicationwithUtopiawillbelost.kuro",
+        "songKey": "a truth seeker -Communication with Utopia will be lost-",
+        "songName": "a truth seeker -Communication with Utopia will be lost-",
+        "difficulty": [
+            7.5,
+            12.8,
+            15.8
+        ],
+        "illustrator": "rokopon",
+        "charter": [
+            "上班睡大觉_Sleepyhead",
+            "上班睡大觉_Sleepyhead",
+            "-Seek A Lnside Truth-"
+        ],
+        "composer": "kuro",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 87.72599792480469,
+        "previewTimeEnd": 107.72599792480469,
+        "soundIdBak": "atruthseekerCommunicationwithUtopiawillbelost.kuro.0"
+    },
+    {
+        "songId": "BoundedQuietude.FiniteLimitvsSiLiS",
+        "songKey": "Bounded Quietude",
+        "songName": "Bounded Quietude",
+        "difficulty": [
+            7.0,
+            7.5,
+            15.9
+        ],
+        "illustrator": "Hiro vs Zeth",
+        "charter": [
+            "LonelyKnight",
+            "LonelyKnight",
+            "孤独な騎士 Against 魔王、大咩兔"
+        ],
+        "composer": "Finite Limit vs SiLiS",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 56.0,
+        "previewTimeEnd": 84.0,
+        "soundIdBak": "BoundedQuietude.FiniteLimitvsSiLiS.0"
+    },
+    {
+        "songId": "君往何处QuoVadis.M2U",
+        "songKey": "君往何处 (Quo Vadis)",
+        "songName": "君往何处 (Quo Vadis)",
+        "difficulty": [
+            4.0,
+            8.6,
+            14.5
+        ],
+        "illustrator": "LRAY (青鸟 modified)",
+        "charter": [
+            "Where are Ctymax and 阿爽?",
+            "Where are Ctymax and 阿爽?",
+            "Salt"
+        ],
+        "composer": "M2U",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 19.437000274658203,
+        "previewTimeEnd": 43.26599884033203,
+        "soundIdBak": "君往何处QuoVadis.M2U.0"
+    },
+    {
+        "songId": "暗夜苏醒REANIMATE.Warak",
+        "songKey": "暗夜苏醒 (REANIMATE)",
+        "songName": "暗夜苏醒 (REANIMATE)",
+        "difficulty": [
+            5.0,
+            12.8,
+            15.4
+        ],
+        "illustrator": "MHK (青鸟 modified)",
+        "charter": [
+            "Deep Dark Ctymax",
+            "reanimate_6k_nm.imd",
+            "StupiGGy -The Startline-"
+        ],
+        "composer": "Warak",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 46.895999908447266,
+        "previewTimeEnd": 68.96499633789062,
+        "soundIdBak": "暗夜苏醒REANIMATE.Warak.0"
+    },
+    {
+        "songId": "Grimheart.Puru",
+        "songKey": "Grimheart",
+        "songName": "Grimheart",
+        "difficulty": [
+            3.0,
+            8.9,
+            13.8
+        ],
+        "illustrator": "临时工 & 倪尔",
+        "charter": [
+            "SimonAxis",
+            "SimonAxis",
+            "WhiteCat."
+        ],
+        "composer": "Puru",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 44.52899932861328,
+        "previewTimeEnd": 64.52899932861328,
+        "soundIdBak": "Grimheart.Puru.0"
+    },
+    {
+        "songId": "Thrashforce.KAHvsE0ri4",
+        "songKey": "Thrash force",
+        "songName": "Thrash force",
+        "difficulty": [
+            4.5,
+            10.7,
+            15.2
+        ],
+        "illustrator": "自動車 原付 vs. GAMEBAKA",
+        "charter": [
+            "thrAsh forSe",
+            "thrAsh forSe",
+            "Uvernight & Su1fuR"
+        ],
+        "composer": "KAH vs. E0ri4",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 102.6240005493164,
+        "previewTimeEnd": 123.80000305175781,
+        "soundIdBak": "Thrashforce.KAHvsE0ri4.0"
+    },
+    {
+        "songId": "Originally.SNKSMizku",
+        "songKey": "Originally",
+        "songName": "Originally",
+        "difficulty": [
+            1.0,
+            9.3,
+            14.5
+        ],
+        "illustrator": "Keiby.comics",
+        "charter": [
+            "StR-1",
+            "StR-9",
+            "StrayCat"
+        ],
+        "composer": "SNKS & Mizku",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 30.200000762939453,
+        "previewTimeEnd": 51.0,
+        "soundIdBak": "Originally.SNKSMizku.0"
+    },
+    {
+        "songId": "黄金之城GOLDTOWN.Memme",
+        "songKey": "黄金之城 (GOLD TOWN)",
+        "songName": "黄金之城 (GOLD TOWN)",
+        "difficulty": [
+            2.0,
+            10.2,
+            14.8
+        ],
+        "illustrator": "RM Design Team (青鸟 modified)",
+        "charter": [
+            "Passport:Visitor",
+            "Passport:Constructor",
+            "Passport:Governor"
+        ],
+        "composer": "MEMME",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 35.8120002746582,
+        "previewTimeEnd": 51.0,
+        "soundIdBak": "黄金之城GOLDTOWN.Memme.0"
+    },
+    {
+        "songId": "双重间谍DoubleAgent.WAVAV",
+        "songKey": "双重间谍 (Double Agent)",
+        "songName": "双重间谍 (Double Agent)",
+        "difficulty": [
+            4.5,
+            11.8,
+            15.5
+        ],
+        "illustrator": "RM Design Team (青鸟 modified)",
+        "charter": [
+            "穿山甲-1",
+            "StupiGGy",
+            "Spy-Simon_Axis | Spy-騎士"
+        ],
+        "composer": "Wav.AV",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 74.0,
+        "previewTimeEnd": 86.0,
+        "soundIdBak": "双重间谍DoubleAgent.WAVAV.0"
+    },
+    {
+        "songId": "幻影鬼魅PLEASE.R300K",
+        "songKey": "幻影鬼魅 (PLEASE)",
+        "songName": "幻影鬼魅 (PLEASE)",
+        "difficulty": [
+            5.5,
+            9.6,
+            15.1,
+            16.4
+        ],
+        "illustrator": "RM Design Team (青鸟 modified)",
+        "charter": [
+            "COC",
+            "COC",
+            "M3d1uM",
+            "imd visual charter \"Rikko\" since 2014"
+        ],
+        "composer": "R300K",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 61.11800003051758,
+        "previewTimeEnd": 81.98699951171875,
+        "soundIdBak": "幻影鬼魅PLEASE.R300K.0"
+    },
+    {
+        "songId": "Schadenfreude.ZxNX",
+        "songKey": "Schadenfreude",
+        "songName": "Schadenfreude",
+        "difficulty": [
+            4.5,
+            11.1,
+            15.2
+        ],
+        "illustrator": "验光蒸鱼",
+        "charter": [
+            "StuRmwind",
+            "StuRmfeuer",
+            "''-1''"
+        ],
+        "composer": "ZxNX",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 126.0,
+        "previewTimeEnd": 142.0,
+        "soundIdBak": "Schadenfreude.ZxNX.0"
+    },
+    {
+        "songId": "Letempsperdu.Daison",
+        "songKey": "Le temps perdu",
+        "songName": "Le temps perdu",
+        "difficulty": [
+            4.0,
+            9.1,
+            12.5
+        ],
+        "illustrator": "子狼",
+        "charter": [
+            "Salt",
+            "Salt",
+            "Likey -For an old friend-"
+        ],
+        "composer": "Daison",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 41.0,
+        "previewTimeEnd": 58.0,
+        "soundIdBak": "Letempsperdu.Daison.0"
+    },
+    {
+        "songId": "FixationsTowardtheStars.Foodbot",
+        "songKey": "Fixations Toward the Stars",
+        "songName": "Fixations Toward the Stars",
+        "difficulty": [
+            3.5,
+            10.8,
+            14.5
+        ],
+        "illustrator": "AriaL [edited by Stelli]",
+        "charter": [
+            "Salt",
+            "OPENING/Level R",
+            "Salt"
+        ],
+        "composer": "Foodbot",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 102.0,
+        "previewTimeEnd": 127.0,
+        "soundIdBak": "FixationsTowardtheStars.Foodbot.0"
+    },
+    {
+        "songId": "valorstarcross.LundyvsWyvren",
+        "songKey": "valor/starcross",
+        "songName": "valor/starcross",
+        "difficulty": [
+            6.5,
+            12.6,
+            15.6
+        ],
+        "illustrator": "AriaL & 57_dayo [edited by Stelli]",
+        "charter": [
+            "vacant/stupiggy",
+            "vacant/stupiggy",
+            "vesper/straycat"
+        ],
+        "composer": "Lundy vs. Wyvren",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 111.0999984741211,
+        "previewTimeEnd": 132.9499969482422,
+        "soundIdBak": "valorstarcross.LundyvsWyvren.0"
+    },
+    {
+        "songId": "CometFeat符白牙.CNHKSS",
+        "songKey": "Comet",
+        "songName": "Comet",
+        "difficulty": [
+            3.0,
+            10.5,
+            13.7
+        ],
+        "illustrator": "小黄鸡叽叽叽叽叽叽修复中",
+        "charter": [
+            "StaR-1",
+            "無彩色",
+            "Likey & Barbarianerman"
+        ],
+        "composer": "CNHKSS feat. 符白牙",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 77.5,
+        "previewTimeEnd": 89.0,
+        "soundIdBak": "CometFeat符白牙.CNHKSS.0"
+    },
+    {
+        "songId": "白と黒のバケモノ.テヅカ",
+        "songKey": "白と黒のバケモノ",
+        "songName": "白と黒のバケモノ",
+        "difficulty": [
+            4.0,
+            11.4,
+            15.7
+        ],
+        "illustrator": "久世",
+        "charter": [
+            "白",
+            "monochrome ILLUSION",
+            "Simon_Axis"
+        ],
+        "composer": "テヅカ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 62.0,
+        "previewTimeEnd": 82.0,
+        "soundIdBak": "白と黒のバケモノ.テヅカ.0"
+    },
+    {
+        "songId": "Devotion.Connexio",
+        "songKey": "Devotion",
+        "songName": "Devotion",
+        "difficulty": [
+            4.5,
+            9.8,
+            13.9
+        ],
+        "illustrator": "Shimoruchiko",
+        "charter": [
+            "StupiGGy",
+            "StupiGGy",
+            "Salt"
+        ],
+        "composer": "Connexio",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 48.83599853515625,
+        "previewTimeEnd": 73.07499694824219,
+        "soundIdBak": "Devotion.Connexio.0"
+    },
+    {
+        "songId": "KirakiraNoelStory.RekuMochizuki",
+        "songKey": "Kirakira Noel Story!!",
+        "songName": "Kirakira Noel Story!!",
+        "difficulty": [
+            4.0,
+            10.2,
+            14.2
+        ],
+        "illustrator": "ナナシ",
+        "charter": [
+            "村头村头 CTY Story!!",
+            "头鱼头鱼 MAX Story!!",
+            "N\\erry Xmas 2024"
+        ],
+        "composer": "Reku Mochizuki",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 86.0,
+        "previewTimeEnd": 108.0,
+        "soundIdBak": "KirakiraNoelStory.RekuMochizuki.0"
+    },
+    {
+        "songId": "Poseidon.1112vsStar",
+        "songKey": "Ποσειδών",
+        "songName": "Ποσειδών",
+        "difficulty": [
+            6.0,
+            8.4,
+            12.8
+        ],
+        "illustrator": "老张",
+        "charter": [
+            "Jαckψ a.k.a JKy",
+            "Jαckψ",
+            "Jαckψ feat. Βαρβαροςαντρας"
+        ],
+        "composer": "1112 vs. Star＊",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 79.54199981689453,
+        "previewTimeEnd": 93.25700378417969,
+        "soundIdBak": "Poseidon.1112vsStar.0"
+    },
+    {
+        "songId": "WATER.A39沙包P",
+        "songKey": "WATER",
+        "songName": "WATER",
+        "difficulty": [
+            4.5,
+            9.4,
+            13.6
+        ],
+        "illustrator": "knife美工刀",
+        "charter": [
+            "急流に巻き込まれ",
+            "対流に巻き込まれ",
+            "乱流に巻き込まれ"
+        ],
+        "composer": "A-39/沙包P",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 107.29399871826172,
+        "previewTimeEnd": 127.05799865722656,
+        "soundIdBak": "WATER.A39沙包P.0"
+    },
+    {
+        "songId": "MiracleForestVIPMix.Rinthlive",
+        "songKey": "Miracle Forest (VIP Mix)",
+        "songName": "Miracle Forest (VIP Mix)",
+        "difficulty": [
+            2.5,
+            7.5,
+            13.1
+        ],
+        "illustrator": "L-sp4",
+        "charter": [
+            "奇跡の希",
+            "奇跡の希",
+            "奇跡の希 feat. 奇跡の従"
+        ],
+        "composer": "Rinth_live",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 63.040000915527344,
+        "previewTimeEnd": 83.19999694824219,
+        "soundIdBak": "MiracleForestVIPMix.Rinthlive.0"
+    },
+    {
+        "songId": "MOBILYS.Dachs",
+        "songKey": "MOBILYS",
+        "songName": "MOBILYS",
+        "difficulty": [
+            5.0,
+            9.7,
+            14.4
+        ],
+        "illustrator": "わっふゑ",
+        "charter": [
+            "百九十八",
+            "百九十八",
+            "StupiGGy vs. 百九十八 ft. 野从"
+        ],
+        "composer": "Dachs",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 59.16600036621094,
+        "previewTimeEnd": 75.41600036621094,
+        "soundIdBak": "MOBILYS.Dachs.0"
+    },
+    {
+        "songId": "Lyrith迷宮リリス.ユメミド",
+        "songKey": "Lyrith -迷宮リリス-",
+        "songName": "Lyrith -迷宮リリス-",
+        "difficulty": [
+            5.0,
+            11.6,
+            15.8,
+            16.2,
+            15.9
+        ],
+        "illustrator": "何呵",
+        "charter": [
+            "Arenn Saki as \"mAze\"",
+            "Arenn Saki as \"myStery\"",
+            "XMT as \"eX-MentalisT\"",
+            "CN_115 as \"prediCameNt\"",
+            "Arenn Saki as \"lAβyrinS\""
+        ],
+        "composer": "ユメミド",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT",
+            "Legacy"
+        ],
+        "previewTimeStart": 92.86599731445312,
+        "previewTimeEnd": 114.5770034790039,
+        "soundIdBak": "Lyrith迷宮リリス.ユメミド.0"
+    },
+    {
+        "songId": "Demiurge.Rabpit",
+        "songKey": "Demiurge",
+        "songName": "Demiurge",
+        "difficulty": [
+            1.5,
+            7.5,
+            11.8
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+            "\"Manufacturer\" ~ Rikko",
+            "\"Creator\" ~ StupiGGy",
+            "\"Demiurge\" ~ Dawn"
+        ],
+        "composer": "Rabpit",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 89.72899627685547,
+        "previewTimeEnd": 107.0270004272461,
+        "soundIdBak": "Demiurge.Rabpit.0"
+    },
+    {
+        "songId": "Demonkin.ForgedReigns",
+        "songKey": "Demonkin",
+        "songName": "Demonkin",
+        "difficulty": [
+            5.5,
+            9.4,
+            13.8
+        ],
+        "illustrator": "Jeffery",
+        "charter": [
+            "Alloces",
+            "Alloces",
+            "Sillyp & Alloces"
+        ],
+        "composer": "Forged Reigns",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 42.5,
+        "previewTimeEnd": 62.5,
+        "soundIdBak": "Demonkin.ForgedReigns.0"
+    },
+    {
+        "songId": "Re_NascencePsystyleVer.Rinth_live",
+        "songKey": "Re_Nascence (Psystyle Ver.) ",
+        "songName": "Re_Nascence (Psystyle Ver.) ",
+        "difficulty": [
+            4.5,
+            11.4,
+            14.3
+        ],
+        "illustrator": "Tsuioku",
+        "charter": [
+            "NerSAN",
+            "NerSAN",
+            "NerSAN & 百九十八"
+        ],
+        "composer": "Rinth_live",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 30.399999618530273,
+        "previewTimeEnd": 46.400001525878906,
+        "soundIdBak": "Re_NascencePsystyleVer.Rinth_live.0"
+    },
+    {
+        "songId": "Ark.kanoryo",
+        "songKey": "Ark",
+        "songName": "Ark",
+        "difficulty": [
+            4.5,
+            9.5,
+            15.1
+        ],
+        "illustrator": "MOAI WORKS",
+        "charter": [
+            "TimiTini",
+            "TimiTini",
+            "阿爽 eat Ctymax"
+        ],
+        "composer": "kanoryo",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 42.68600082397461,
+        "previewTimeEnd": 60.0,
+        "soundIdBak": "Ark.kanoryo.0"
+    },
+    {
+        "songId": "AfterDawn.S9ryne",
+        "songKey": "After Dawn",
+        "songName": "After Dawn",
+        "difficulty": [
+            4.0,
+            10.4,
+            15.3
+        ],
+        "illustrator": "月亮酱",
+        "charter": [
+            "Barbarianerman",
+            "NerSAN feat. Pcat",
+            "BarbariaNerSAN feat. Snorkel"
+        ],
+        "composer": "S9ryne",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 52.362998962402344,
+        "previewTimeEnd": 67.63600158691406,
+        "soundIdBak": "AfterDawn.S9ryne.0"
+    },
+    {
+        "songId": "INFiNiTEENERZYOverdoze.RekuMochizuki",
+        "songKey": "INFiNiTE ENERZY -Overdoze-",
+        "songName": "INFiNiTE ENERZY -Overdoze-",
+        "difficulty": [
+            7.5,
+            12.4,
+            14.7,
+            16.3
+        ],
+        "illustrator": "knife美工刀",
+        "charter": [
+            "while(TangScend<=TangScend);",
+            "while(TangScend>=TangScend);",
+            "while(TangScend==TangScend);",
+            "while(TangScend=TangScend);"
+        ],
+        "composer": "Reku Mochizuki",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 48.0,
+        "previewTimeEnd": 73.33300018310547,
+        "soundIdBak": "INFiNiTEENERZYOverdoze.RekuMochizuki.0"
+    },
+    {
+        "songId": "Khalid.Dolphin",
+        "songKey": "Khalid",
+        "songName": "Khalid",
+        "difficulty": [
+            4.0,
+            8.2,
+            13.1
+        ],
+        "illustrator": "HAZUQU",
+        "charter": [
+            "Barbarialid",
+            "Barbarialid",
+            "Ner＜Jazz for your soul .)"
+        ],
+        "composer": "Dolphin",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 52.5,
+        "previewTimeEnd": 69.375,
+        "soundIdBak": "Khalid.Dolphin.0"
+    },
+    {
+        "songId": "QuantumHyperspace.D_AAN",
+        "songKey": "Quantum Hyperspace",
+        "songName": "Quantum Hyperspace",
+        "difficulty": [
+            6.0,
+            11.2,
+            14.8
+        ],
+        "illustrator": "sa1t",
+        "charter": [
+            "Bariantum Hyperianerman",
+            "Bariantum Hyperianerman",
+            "IMD_0b0110"
+        ],
+        "composer": "D_AAN",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 68.4000015258789,
+        "previewTimeEnd": 88.19999694824219,
+        "soundIdBak": "QuantumHyperspace.D_AAN.0"
+    },
+    {
+        "songId": "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK",
+        "songKey": "Freaky Undulations ~Noble Knights of Tune~",
+        "songName": "Freaky Undulations ~Noble Knights of Tune~",
+        "difficulty": [
+            7.0,
+            10.9,
+            15.1
+        ],
+        "illustrator": "PEZZ feat. 祈莲 & CattoHato",
+        "charter": [
+            "Ner ~Freaky Cat of Charting~",
+            "ARE YOU JEITIE!!!",
+            "<= Noblesse Jeitie =>"
+        ],
+        "composer": "Jehezukiel + KURORAK",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 11.883000373840332,
+        "previewTimeEnd": 23.799999237060547,
+        "soundIdBak": "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0"
+    },
+    {
+        "songId": "PANICPARADISE.DJSHIONY",
+        "songKey": "PANIC PARADISE",
+        "songName": "PANIC PARADISE",
+        "difficulty": [
+            5.0,
+            11.5,
+            15.4
+        ],
+        "illustrator": "百九十八",
+        "charter": [
+            "Barianic Baradise",
+            "Barianic Baradise",
+            "Su1fuR -FAISEURS DE PANIQUE-"
+        ],
+        "composer": "DJ SHION.Y",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 47.0,
+        "previewTimeEnd": 69.5,
+        "soundIdBak": "PANICPARADISE.DJSHIONY.0"
+    },
+    {
+        "songId": "ReEndofaDream.umavsモリモリあつし",
+        "songKey": "Re：End of a Dream",
+        "songName": "Re：End of a Dream",
+        "difficulty": [
+            7.5,
+            13.1,
+            15.6,
+            16.4
+        ],
+        "illustrator": "masiro vs. adaptor",
+        "charter": [
+            "Barbarianerman, Overture before the story",
+            "Barbarianerman, Main theme within the somnium",
+            "Latency, Finale of the dream",
+            "XMT, Encore after the end"
+        ],
+        "composer": "uma vs. モリモリあつし",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 114.05599975585938,
+        "previewTimeEnd": 123.39600372314453,
+        "soundIdBak": "ReEndofaDream.umavsモリモリあつし.0"
+    },
+    {
+        "songId": "心の記憶.A39沙包P",
+        "songKey": "心の記憶",
+        "songName": "心の記憶",
+        "difficulty": [
+            3.5,
+            9.1,
+            13.3
+        ],
+        "illustrator": "爱39的Konya",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "N-23"
+        ],
+        "composer": "A-39/沙包P",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 36.79999923706055,
+        "previewTimeEnd": 54.400001525878906,
+        "soundIdBak": "心の記憶.A39沙包P.0"
+    },
+    {
+        "songId": "Spotlight.Ardolf",
+        "songKey": "Spotlight",
+        "songName": "Spotlight",
+        "difficulty": [
+            4.5,
+            9.9,
+            14.3
+        ],
+        "illustrator": "NerSAN",
+        "charter": [
+            "Debut under spotlights!< Simon_Axis",
+            "Simon_Axis >< Likey",
+            "Likey >IT'S SHOWTIME!"
+        ],
+        "composer": "Ardolf",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 98.0,
+        "previewTimeEnd": 111.0,
+        "soundIdBak": "Spotlight.Ardolf.0"
+    },
+    {
+        "songId": "NightTheater.わかどり",
+        "songKey": "NightTheater",
+        "songName": "NightTheater",
+        "difficulty": [
+            4.0,
+            10.6,
+            14.6
+        ],
+        "illustrator": "青鸟",
+        "charter": [
+            "StR-1 watches Ctyfilm",
+            "StR-1 watches Ctyfilm",
+            "LuminousGausbon"
+        ],
+        "composer": "わかどり",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 89.59600067138672,
+        "previewTimeEnd": 104.9000015258789,
+        "soundIdBak": "NightTheater.わかどり.0"
+    },
+    {
+        "songId": "Ramification.rareguyReina",
+        "songKey": "Ramification",
+        "songName": "Ramification",
+        "difficulty": [
+            5.0,
+            10.4,
+            14.7
+        ],
+        "illustrator": "cokeAnut",
+        "charter": [
+            "inert COC",
+            "totally ramified COC",
+            "Simon_Axis•騎士•StR-1"
+        ],
+        "composer": "rareguy & Reina",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 51.5,
+        "previewTimeEnd": 63.0,
+        "soundIdBak": "Ramification.rareguyReina.0"
+    },
+    {
+        "songId": "DerRichter.Ωμεγα",
+        "songKey": "Der Richter",
+        "songName": "Der Richter",
+        "difficulty": [
+            5.5,
+            11.4,
+            15.6
+        ],
+        "illustrator": "森灵",
+        "charter": [
+            "Min(C,t,y)",
+            "Max(C,t,y)",
+            "Absolute(6)"
+        ],
+        "composer": "Ωμεγα",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN"
+        ],
+        "previewTimeStart": 110.625,
+        "previewTimeEnd": 121.25,
+        "soundIdBak": "DerRichter.Ωμεγα.0"
+    },
+    {
+        "songId": "ATHAZA.LeaF",
+        "songKey": "ATHAZA",
+        "songName": "ATHAZA",
+        "difficulty": [
+            8.1,
+            12.9,
+            15.5,
+            16.2
+        ],
+        "illustrator": "御坂果子",
+        "charter": [
+            "LDAJOY&PLEASANT ^V^ LDA",
+            "ANGER&SORROW >^< LDA",
+            "Affection&memories \\\\// Salt & Simon_Axis",
+            "FORGET :: CLUTTER"
+        ],
+        "composer": "LeaF",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTimeStart": 42.2140007019043,
+        "previewTimeEnd": 55.92900085449219,
+        "soundIdBak": "ATHAZA.LeaF.0"
+    },
+    {
+        "songId": "Introduction",
+        "songKey": "Introduction",
+        "songName": "Introduction",
+        "difficulty": [
+            1.0
+        ],
+        "illustrator": "L-sp4",
+        "charter": [
+            "Catcats"
+        ],
+        "composer": "",
+        "levels": [
+            "EZ"
+        ],
+        "previewTimeStart": 0.0,
+        "previewTimeEnd": 0.0,
+        "soundIdBak": "Introduction"
+    }
+]

@@ -1,0 +1,15 @@
+<body>
+    <h1> Phigros Downloader !! </h1>
+    <h2> Now Version: 3.10.3.1 </h2>
+    <div id="reslist"></div>
+</body>
+
+<script>
+    (async () => {
+        const data = (await fetch("./reslist.json")).json();
+        const reslist = document.getElementById("reslist");
+        for (const path of data) {
+            reslist.innerHTML += `<a href="${path}">${path}</a><br/>`;
+        }
+    })();
+</script>
